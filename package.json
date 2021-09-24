@@ -1,9 +1,14 @@
 {
-  "name": "vuepress",
+  "name": "SCCCPServerWiki",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "copyright",
   "devDependencies": {
     "vuepress": "^1.8.2"
-  }
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "SCCCP-Team(https://github.com/SCCCP-Team/SCCCPServerWiki)"
 }

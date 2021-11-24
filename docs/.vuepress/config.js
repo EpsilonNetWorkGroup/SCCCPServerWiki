@@ -4,11 +4,6 @@ module.exports = {
   themeConfig: {
     logo: './assets/img/server-icon.png',
     lastUpdated: '最后更新',
-    locales: {
-      '/': {
-        lang: 'zh-CN',
-      }
-    },
     nav: [
       { text: '主页', link: '/' },
       { text: '服务器介绍', link: '/preface' },
@@ -19,7 +14,9 @@ module.exports = {
       ['/', '主页'],
       ['/dirs', '目录'],
     ],
+    
     repo: 'SCCCP-Team/SCCCPServerWiki',
+    docsDir: 'docs',
     editLinks: true,
     editLinkText: '在Github上编辑',
   },

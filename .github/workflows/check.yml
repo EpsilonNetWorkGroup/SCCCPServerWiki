@@ -1,0 +1,16 @@
+name: build wiki
+
+on: [push, pull_request]
+
+jobs:
+  build-vuepress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      
+      - name: install dep
+        run: yarn install
+      
+      - name: build wiki
+        run : yarn run docs:build

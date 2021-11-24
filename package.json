@@ -1,9 +1,10 @@
 {
-  "name": "SCCCPServerWiki",
+  "name": "scccpserverwiki",
   "version": "1.0.0",
   "main": "index.js",
   "license": "copyright",
   "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
     "vuepress": "^1.8.2"
   },
   "scripts": {

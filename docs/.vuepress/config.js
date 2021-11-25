@@ -12,7 +12,15 @@ module.exports = {
     ],
     sidebar: [
       ['/', '主页'],
-      ['/dirs', '目录'],
+      {
+        title: '目录',
+        path: '/dirs',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/command/tpa', 'TPA命令'],
+        ]
+      },
     ],
     
     repo: 'SCCCP-Team/SCCCPServerWiki',

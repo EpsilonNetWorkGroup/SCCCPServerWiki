@@ -4,11 +4,6 @@ module.exports = {
   themeConfig: {
     logo: './assets/img/server-icon.png',
     lastUpdated: '最后更新',
-    locales: {
-      '/': {
-        lang: 'zh-CN',
-      }
-    },
     nav: [
       { text: '主页', link: '/' },
       { text: '服务器介绍', link: '/preface' },
@@ -17,7 +12,15 @@ module.exports = {
     ],
     sidebar: [
       ['/', '主页'],
-      ['/dirs', '目录'],
+      {
+        title: '目录',
+        path: '/dirs',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/command/tpa', 'TPA命令'],
+        ]
+      },
     ],
     repo: 'SCCCP-Team/SCCCPServerWiki',
     editLinks: true,

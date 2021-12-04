@@ -11,6 +11,9 @@ features:
 - title: 专业维护
   details: 一支多年学习技术的管理团队,同时拥有大量的Minecraft服务器管理经验
 - title: 稳定更新不删档
-  details: 自1.15.2开服以来,稳定运行已超过一年,经历过多次版本大更新,目前为1.17.1
+  details: 自1.15.2服务器公开以来,稳定运行已超过一年,经历过多次版本大更新,目前为1.17.1
 footer: 这不是官方Minecraft, 不由Mojang认可, 不隶属于Mojang. Minecraft是Mojang的商标
 ---
+<script>
+  console.log(window.atob('ICstKy0rLSstKy0rICstKy0rLSstKy0rLSstKy0rLSsgKy0rLSstKy0rLSstKyArLSstKy0rLSsKIHxTfEN8Q3xDfFB8IHxDfG98bXxtfHV8bnxpfHR8eXwgfFN8ZXxyfHZ8ZXxyfCB8V3xpfGt8aXwKICstKy0rLSstKy0rICstKy0rLSstKy0rLSstKy0rLSsgKy0rLSstKy0rLSstKyArLSstKy0rLSs='));
+</script>

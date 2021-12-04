@@ -14,7 +14,8 @@ module.exports = {
       ["/", "主页"],
       ["/guide", "新手快速入门"],
       {
-        title: "目录",
+        title: "教程目录",
+        path: "/dirs",
         collapsable: false,
         sidebarDepth: 1,
         children: [
@@ -33,7 +34,8 @@ module.exports = {
             ],
           }
         ]
-      }
+      },
+      ["/updatelog/", "服务器更新日志"],
     ],
 
     repo: "SCCCP-Team/SCCCPServerWiki",

@@ -1,4 +1,10 @@
 module.exports = {
+  head: [
+    [
+      "link",
+      { rel: "icon", href: "/assets/img/server-icon.png"}
+    ]
+  ],
   title: "SCCCP Community Server Wiki",
   description: "SCCCPServerWikiMark",
   themeConfig: {

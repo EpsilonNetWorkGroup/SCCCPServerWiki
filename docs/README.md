@@ -15,5 +15,9 @@ features:
 footer: 这不是官方Minecraft, 不由Mojang认可, 不隶属于Mojang. Minecraft是Mojang的商标
 ---
 <script>
-  console.log(window.atob('ICstKy0rLSstKy0rICstKy0rLSstKy0rLSstKy0rLSsgKy0rLSstKy0rLSstKyArLSstKy0rLSsKIHxTfEN8Q3xDfFB8IHxDfG98bXxtfHV8bnxpfHR8eXwgfFN8ZXxyfHZ8ZXxyfCB8V3xpfGt8aXwKICstKy0rLSstKy0rICstKy0rLSstKy0rLSstKy0rLSsgKy0rLSstKy0rLSstKyArLSstKy0rLSs='));
+  export default {
+    mounted () {
+        console.log(window.atob('ICstKy0rLSstKy0rICstKy0rLSstKy0rLSstKy0rLSsgKy0rLSstKy0rLSstKyArLSstKy0rLSsKIHxTfEN8Q3xDfFB8IHxDfG98bXxtfHV8bnxpfHR8eXwgfFN8ZXxyfHZ8ZXxyfCB8V3xpfGt8aXwKICstKy0rLSstKy0rICstKy0rLSstKy0rLSstKy0rLSsgKy0rLSstKy0rLSstKyArLSstKy0rLSs='));
+    }
+  }
 </script>

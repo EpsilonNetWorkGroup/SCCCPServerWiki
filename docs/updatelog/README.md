@@ -3,4 +3,5 @@
 涉及服务器安全的更新的详细内容会模糊化
 
 ## 服务器发行版本列表
-* **[Canary(金丝雀) 11/19 --> Current(当前)](Canary)**
+* **[OUTGOING LINKS(发散想法) 12/11 --> Current(当前)](OUTGOINGLINKS)**
+* [Canary(金丝雀) 11/19 --> 12/11](Canary)

@@ -1,8 +1,10 @@
 # SCCCPServerLog
 
 ## 服务器发行版本列表
+### 2022年
+* **[OUTGOING LINKS(发散想法) 2021年 --> Current(当前)](OUTGOINGLINKS)**
 ### 2021年
-* **[OUTGOING LINKS(发散想法) 12/11 --> Current(当前)](OUTGOINGLINKS)**
+* [OUTGOING LINKS(发散想法) 12/11 --> 2022年](OUTGOINGLINKS)
 * [Canary(金丝雀) 11/19 --> 12/11](Canary)
 ::: details 关于发行版本
 服务器每当有大的游戏内容/机制更新, 一般会发布新的版本代号  

@@ -2,7 +2,8 @@
 
 ## 服务器发行版本列表
 ### 2022年
-* **[OUTGOING LINKS(发散想法) 2021年 --> Current(当前)](OUTGOINGLINKS)**
+* **[Jinyu(瑾瑜) 1/5 --> Current(当前)](Jinyu)**
+* [OUTGOING LINKS(发散想法) 2021年 --> 1/5](OUTGOINGLINKS)
 ### 2021年
 * [OUTGOING LINKS(发散想法) 12/11 --> 2022年](OUTGOINGLINKS)
 * [Canary(金丝雀) 11/19 --> 12/11](Canary)

@@ -20,7 +20,7 @@ module.exports = {
       ["/", "主页"],
       ["/guide", "新手快速入门"],
       {
-        title: "教程目录",
+        title: "目录",
         path: "/dirs",
         collapsable: false,
         sidebarDepth: 1,
@@ -38,10 +38,13 @@ module.exports = {
               ["/command/coreprotect", "c(破坏/容器交互查询)"],
               ["/command/other", "杂项命令"]
             ],
-          }
+          },
+          ["/netmap", "网页地图"],
+          ["/faq", "FAQ(常见问题)"]
         ]
       },
       ["/updatelog/", "服务器更新日志"],
+      ["/contact", "关于我们/联系我们"]
     ],
 
     repo: "SCCCP-Team/SCCCPServerWiki",
@@ -57,6 +60,12 @@ module.exports = {
           artist: "Lena Raine",
           url: "/assets/bgm/Otherside.ogg",
           cover: "/assets/bgm/Otherside.png",
+        },
+        {
+          name: "Infinite Amethyst",
+          artist: "Lena Raine",
+          url: "/assets/bgm/Infinite Amethyst.ogg",
+          cover: "/assets/bgm/Infinite Amethyst.png",
         },
       ],
       autoShrink: true,

@@ -2,7 +2,8 @@
 
 ## 服务器发行版本列表
 ### 2022年
-* **[Jinyu(瑾瑜) 1/5 --> Current(当前)](Jinyu)**
+* **[Portal(传送门) 2/20 --> Current(当前)](Portal)**
+* [Jinyu(瑾瑜) 1/5 --> 2-20](Jinyu)
 * [OUTGOING LINKS(发散想法) 2021年 --> 1/5](OUTGOINGLINKS)
   
 ::: details 2021年内容

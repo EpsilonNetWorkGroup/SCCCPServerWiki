@@ -6,11 +6,20 @@
 ```sh
 npm install --global yarn  
 ```
+Clone项目, 并进入项目目录
+```sh
+git clone https://github.com/SCCCP-Team/SCCCPServerWiki.git  
+cd SCCCPServerWiki  
+```
 配置项目依赖  
 ```sh
 yarn install  
 ```
 运行开发服务器  
 ```sh
-yarn run docs:dev  
+yarn docs:dev  
+```
+生成HTML  
+```sh
+yarn docs:build  
 ```

@@ -2,27 +2,38 @@
 ### /tpa
 你可以使用此命令请求传送到别的玩家位置  
 ::: tip 示例
+``` sh
 /tpa gtem  
+```
 请求传送到玩家 gtem 的位置  
 :::  
   
-### /tpahere (/tpah)
+### /tpahere
+命令别名: /tpah  
 你可以使用此命令请求别的玩家传送到你的位置
 ::: tip 示例
-/tpah gtem (/tpahere gtem)  
+``` sh
+/tpah gtem  
+```
 请求玩家 gtem 传送到你的位置  
 :::  
   
-### /tpaccept (/y)
+### /tpaccept
+命令别名: /y  
 你可以使用此命令同意tpa请求  
 ::: tip 示例
-/y  
+``` sh
+/y
+```
 [SCCCPSYS]传送请求已被接受！ 
 :::  
-### /tpadeny（/n）
+### /tpadeny
+命令别名: /n  
 你可以使用此命令拒绝tpa请求  
 ::: tip 示例
-/n  
+``` sh
+/n
+```
 [SCCCPSYS]传送请求已被拒绝！  
 :::  
 

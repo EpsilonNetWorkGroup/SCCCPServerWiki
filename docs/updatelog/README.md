@@ -1,12 +1,12 @@
 # SCCCPServerLog
 
 ## 服务器发行版本列表
-### 2022年
+### 2022年(第三年)
 * **[Portal(传送门) 2/20 --> Current(当前)](Portal)**
 * [Jinyu(瑾瑜) 1/5 --> 2-20](Jinyu)
 * [OUTGOING LINKS(发散想法) 2021年 --> 1/5](OUTGOINGLINKS)
   
-::: details 2021年内容
+::: details 2021年(第二年)内容
 * [OUTGOING LINKS(发散想法) 12/11 --> 2022年](OUTGOINGLINKS)
 * [Canary(金丝雀) 11/19 --> 12/11](Canary)  
 :::
@@ -17,10 +17,10 @@
 :::
 
 ## 服务器事件
-### 2022年
+### 2022年(第三年)
 * [dventure Event 2/26 --> 3/10](Event/dventure)
   
-::: details 2021年内容
+::: details 2021年(第二年)内容
 * [Newyear Event 12/24 --> 2022/2/10](Event/2021/Newyear)
 * [Rerouting Event 11/29 --> 12/20](Event/Rerouting)
 * [Agent's moon+Heck Event 10/31 --> 11/18](Event/2021/Agent'smoon+Heck)

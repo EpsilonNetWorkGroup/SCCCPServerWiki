@@ -18,11 +18,11 @@
 
 ## 服务器事件
 ### 2022年(第三年)
-* [dventure Event 2/26 --> 3/10](Event/dventure)
+* [dventure SP Event 2/26 --> 3/10](Event/dventure)
   
 ::: details 2021年(第二年)内容
 * [Newyear Event 12/24 --> 2022/2/10](Event/2021/Newyear)
-* [Rerouting Event 11/29 --> 12/20](Event/Rerouting)
+* [Rerouting SP Event 11/29 --> 12/20](Event/Rerouting)
 * [Agent's moon+Heck Event 10/31 --> 11/18](Event/2021/Agent'smoon+Heck)
 * [Mni+dJ Ahuntum Event 9/21 --> 9/24](Event/2021/Mni+dJoAhuntum)   
 :::

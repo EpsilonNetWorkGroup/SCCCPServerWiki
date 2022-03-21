@@ -2,16 +2,16 @@
 home: true
 heroImage: /assets/img/post-event-hero.jpeg
 heroText: SCCCP 社区服务器官方维基
-tagline: 这里总结了关于SCCCP 社区服务器的一切
+tagline: 顶级Minecraft游戏社区
 actionText: 新手快速入门 →
 actionLink: /guide
 features:
 - title: 适合任何人
-  details:  独特的正盗版兼容与难度调整功能,使任何玩家都可轻松享受服务器
+  details:  各个不同的社区以满足任何人的游戏需求, 您也可以使用私人社区打造您自己的服务器! 以及更多独家功能...
 - title: 专业维护
-  details: 一支多年学习技术的管理团队,同时拥有大量的Minecraft服务器管理经验,保证服务器稳定流畅运行
-- title: 稳定的游戏体验不删档
-  details: 自1.15.2服务器公开以来,稳定运行已达两年,经历过多次版本大更新,目前为1.18.1
+  details: 一支拥有网络/安全工程师从事经验的开发/管理团队, 同时拥有大量的Minecraft服务器管理经验, 保证服务器稳定流畅运行...
+- title: 稳定的游戏体验
+  details: 自1.15.2单体的生存服务器公开以来, 整个社区稳定运行已达三年, 还在不断更新更多内容...
 footer: 这不是官方Minecraft, 不由Mojang认可, 不隶属于Mojang. Minecraft是Mojang的商标 **SCCCP社区服务器支持IPV6**
 ---
 <script>

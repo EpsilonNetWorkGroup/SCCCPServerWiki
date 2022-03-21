@@ -1,4 +1,5 @@
-# SCCCPServerLog
+# SCCCP Officiale Survival ServerLog 
+**此处是指官方生存(子)社区 的更动记录**
 
 ## 服务器发行版本列表
 ### 2022年(第三年)

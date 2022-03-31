@@ -7,10 +7,10 @@
 * [网页地图](netmap)  
 
 ## 主社区可用命令
-* [**查询命令**](coreprotect)
-* [**难度调整**](diffmod)
-* [**领地标记**](landclaim)
-* [Tpa玩家间传送](tpa)
-* [Tpoint传送点传送](tpoint)
-* [其他命令](other)
+* [**查询命令**](command/coreprotect)
+* [**难度调整**](command/diffmod)
+* [**领地标记**](command/landclaim)
+* [Tpa玩家间传送](command/tpa)
+* [Tpoint传送点传送](command/tpoint)
+* [其他命令](command/other)
 

@@ -1,4 +1,4 @@
-# SCCCP Officiale Survival ServerLog 
+# 这里记录整个社区的更新记录
 
 ## 服务器发行版本列表
 ### 2022年(第三年)
@@ -8,7 +8,7 @@
   
 ::: details 2021年(第二年)内容
 * [OUTGOING LINKS(发散想法) 12/11 --> 2022年](OUTGOINGLINKS)
-* [Canary(金丝雀) 11/19 --> 12/11](Canary)  
+* [Canary(金丝雀) 11/19 --> 12/11](Canary)
 :::
   
 ::: details 关于发行版本

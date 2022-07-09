@@ -36,7 +36,7 @@ module.exports = {
               ["/command/diffmod", "df(难度调整功能)"],
               ["/command/landclaim", "landclaim(私人领地标记)"],
               ["/command/coreprotect", "c(破坏/容器交互查询)"],
-              ["/command/other", "杂项命令"]
+              ["/command/other", "杂项命令(密码更改等高级功能)"]
             ],
           },
           ["/netmap", "网页地图"],

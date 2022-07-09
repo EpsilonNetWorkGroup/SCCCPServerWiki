@@ -12,5 +12,5 @@
 * [**领地标记**](command/landclaim)
 * [Tpa玩家间传送](command/tpa)
 * [Tpoint传送点传送](command/tpoint)
-* [其他命令](command/other)
+* [杂项命令(密码更改等高级功能)](command/other)
 

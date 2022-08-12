@@ -16,8 +16,9 @@ Bedrock交流群: 786406537
 ## 高可用节点列表
 |HA|详细信息|连接地址|  
 |:--:|-------|-------|  
-|01|官方提供的节点, 支持IPV4+IPV6接入|ha01.playl.net|  
-|02|由gtem提供的节点，支持IPv4+IPV6接入|ha02.playl.net:5000|  
+|01|官方提供的节点, 支持IPv4+IPv6接入|ha01.playl.net|  
+|02|gtem提供的节点，支持IPv4+IPv6接入|ha02.playl.net:5000|  
+|03|gtem提供的节点，支持IPv4接入|ha03.playl.net:2604|  
 ::: tip 自选高可用节点
 如您觉得某个HA更适合自己的网络环境, 你可以通过以上的列表, 使用对应HA的连接地址指定HA节点  
 地址请使用列表中的连接地址，类似于: **ha01.playl.net**  
@@ -33,7 +34,7 @@ Bedrock交流群: 786406537
 |管理员|详细信息|  
 |:--:|-------|  
 |Dmitri_233|根系统管理员|  
-|gtem|私人社区管理员, HA02提供者|  
+|gtem|私人社区管理员, HA02/03提供者|  
 
 ###  特别感谢/Special Thanks To:
 ![Paper](https://z3.ax1x.com/2021/08/27/hMKHN6.png)

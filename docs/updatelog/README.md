@@ -20,6 +20,7 @@
 
 ## 服务器事件
 ### 2022年(第三年)
+* [**HKIFF24 Event 8/17 --> 9/01**](Event/2022/HKIFF24)
 * [Stardust Event 4/4 --> 4/7](Event/2022/Stardust)
 * [dventure SP Event 2/26 --> 3/10](Event/dventure)
   

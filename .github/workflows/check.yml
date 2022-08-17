@@ -9,8 +9,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       
-      - name: install dep
-        run: yarn install
+#      - name: install dep
+#        run: yarn install
       
       - name: build wiki
         run : yarn run docs:build

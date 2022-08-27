@@ -65,7 +65,7 @@ steve/slim参数用于从网站获取皮肤的情况下指定玩家模型(经典
 ```
 /tps
 ```
-查看服务器TPS(每秒时间刻), 可用于判断服务器是否出现卡顿, 低于20则有卡顿  
+查看服务器TPS(每秒时间刻/Ticks Per Second), 可用于判断服务器是否出现卡顿, 低于20则有卡顿  
 :::  
 ### 查看服务器MSPT
 命令: `/mspt` 
@@ -73,14 +73,14 @@ steve/slim参数用于从网站获取皮肤的情况下指定玩家模型(经典
 ```
 /mspt
 ```
-查看服务器MSTP(每毫秒时间刻), 可用于判断服务器处理压力与性能, 高于50则会开始损失TPS  
+查看服务器MSPT(每毫秒时间刻/Milliseconds Per Tick), 可用于判断服务器处理压力与性能, 高于50则会开始损失TPS  
 :::  
-### 查看mobcap
-命令: `/mobcap` `/pmobcap` 
+### 查看mobcaps(生成上限)
+命令: `/mobcaps` `/pmobcaps` 
 ::: tip 示例
 ```
-/mobcap
-/pmobcap
+/mobcaps
+/pmobcaps
 ```
-mobcap用于列出当前世界的生成上限, pmobcap用于列出玩家个人生成上限, 用于帮助玩家分析刷怪规则  
+/mobcaps用于列出玩家所在世界的生物生成上限, /pmobcaps用于列出玩家个人的生物生成上限, 用于帮助玩家分析生物刷新规律  
 :::  

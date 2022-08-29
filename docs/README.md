@@ -2,7 +2,7 @@
 home: true
 heroImage: /assets/img/post-event-hero.jpeg
 heroText: SCCCP 社区服务器官方维基
-tagline: 顶级Minecraft游戏社区
+tagline: 顶级Minecraft游戏社区, 你的世界, 由你的方式
 actionText: 新手快速入门 →
 actionLink: /guide
 features:

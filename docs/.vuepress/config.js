@@ -56,16 +56,22 @@ module.exports = {
     "@vuepress-reco/bgm-player": {
       audios: [
         {
-          name: "Otherside",
-          artist: "Lena Raine",
-          url: "/assets/bgm/Otherside.ogg",
-          cover: "/assets/bgm/Otherside.png",
+          name: "5",
+          artist: "Samuel Åberg & Jagdaggar Remix",
+          url: "/assets/bgm/Disc 5 Jagdaggar Remix.mp3",
+          cover: "/assets/bgm/Disc5.png",
         },
         {
           name: "Infinite Amethyst",
           artist: "Lena Raine",
           url: "/assets/bgm/Infinite Amethyst.ogg",
           cover: "/assets/bgm/Infinite Amethyst.png",
+        },
+        {
+          name: "Otherside",
+          artist: "Lena Raine",
+          url: "/assets/bgm/Otherside.ogg",
+          cover: "/assets/bgm/Otherside.png",
         },
       ],
       autoShrink: true,

@@ -1,7 +1,7 @@
 # 新成员快速入门
 ## 1连接到SCCCPCenter
-首先您需要通过高可用网络连接到[SCCCPCenter], 在Minecraft中添加服务器, 输入服务器地址*sccp.playl.net*  
-这将通过SRV记录自动寻找[最佳HA服务器](contact.md#高可用节点列表), 双击进入服务器   
+首先您需要通过高可用网络连接到[SCCCPCenter](scccpcenter), 在Minecraft中添加服务器, 输入服务器地址*sccp.playl.net*  
+这将通过SRV记录自动寻找[最佳HA服务器](contact.md#高可用节点列表), 双击进入服务器  
 
 ::: warning 有关加入资格
 * 都必须使用自己的真实IP地址进入服务器  

@@ -18,6 +18,7 @@ module.exports = {
     sidebar: [
       ["/", "主页"],
       ["/guide", "新成员快速入门"],
+      ["/scccpcenter", "何为SCCCPCenter"],
       {
         title: "主社区",
         path: "/Mainc",

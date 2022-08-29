@@ -12,39 +12,39 @@ module.exports = {
     lastUpdated: "最后更新",
     nav: [
       { text: "主页", link: "/" },
-      { text: "服务器介绍", link: "/preface" },
       { text: "目录", link: "/dirs" },
-      { text: "论坛社区", link: "https://bbs.playl.net/forums/scccp/" },
+      { text: "加入QQ群", link: "/contact"},
     ],
     sidebar: [
       ["/", "主页"],
-      ["/guide", "新手快速入门"],
+      ["/guide", "新成员快速入门"],
+      ["/scccpcenter", "何为SCCCPCenter"],
       {
-        title: "目录",
-        path: "/dirs",
+        title: "主社区",
+        path: "/Mainc",
         collapsable: false,
         sidebarDepth: 1,
         children: [
-          ["/preface", "服务器介绍"],
+          ["/", "介绍主社区"],
           {
             title: "命令",
             collapsable: true,
             sidebarDepth: 1,
             children: [
-              ["/command/tpa", "Tpa(玩家间传送)"],
-              ["/command/tpoint", "Tpoint(传送点功能)"],
-              ["/command/diffmod", "df(难度调整功能)"],
-              ["/command/landclaim", "landclaim(私人领地标记)"],
-              ["/command/coreprotect", "c(破坏/容器交互查询)"],
-              ["/command/other", "杂项命令(密码更改等高级功能)"]
+              ["/Mainc/command/tpa", "Tpa(玩家间传送)"],
+              ["/Mainc/command/tpoint", "Tpoint(传送点功能)"],
+              ["/Mainc/command/diffmod", "df(难度调整功能)"],
+              ["/Mainc/command/landclaim", "landclaim(私人领地标记)"],
+              ["/Mainc/command/coreprotect", "c(破坏/容器交互查询)"],
+              ["/Mainc/command/other", "杂项命令(密码更改等高级功能)"]
             ],
           },
-          ["/netmap", "网页地图"],
-          ["/faq", "FAQ(常见问题)"]
+          ["/Mainc/netmap", "网页地图"],
+          ["/Mainc/faq", "FAQ(常见问题)"]
         ]
       },
-      ["/updatelog/", "服务器更新日志"],
-      ["/contact", "关于我们/联系我们"]
+      ["/updatelog/", "全社区更新日志"],
+      ["/contact", "联系我们/社区信息"]
     ],
 
     repo: "SCCCP-Team/SCCCPServerWiki",
@@ -56,16 +56,22 @@ module.exports = {
     "@vuepress-reco/bgm-player": {
       audios: [
         {
-          name: "Otherside",
-          artist: "Lena Raine",
-          url: "/assets/bgm/Otherside.ogg",
-          cover: "/assets/bgm/Otherside.png",
+          name: "5",
+          artist: "Samuel Åberg & Jagdaggar Remix",
+          url: "/assets/bgm/Disc 5 Jagdaggar Remix.mp3",
+          cover: "/assets/bgm/Disc5.png",
         },
         {
           name: "Infinite Amethyst",
           artist: "Lena Raine",
           url: "/assets/bgm/Infinite Amethyst.ogg",
           cover: "/assets/bgm/Infinite Amethyst.png",
+        },
+        {
+          name: "Otherside",
+          artist: "Lena Raine",
+          url: "/assets/bgm/Otherside.ogg",
+          cover: "/assets/bgm/Otherside.png",
         },
       ],
       autoShrink: true,

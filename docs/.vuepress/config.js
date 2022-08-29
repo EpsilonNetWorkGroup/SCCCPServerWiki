@@ -12,7 +12,6 @@ module.exports = {
     lastUpdated: "最后更新",
     nav: [
       { text: "主页", link: "/" },
-      { text: "服务器介绍", link: "/preface" },
       { text: "目录", link: "/dirs" },
       { text: "加入QQ群", link: "/contact"},
     ],
@@ -25,7 +24,7 @@ module.exports = {
         collapsable: false,
         sidebarDepth: 1,
         children: [
-          ["/preface", "服务器介绍"],
+          ["/", "介绍主社区"],
           {
             title: "命令",
             collapsable: true,

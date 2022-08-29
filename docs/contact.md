@@ -19,6 +19,8 @@ Bedrock版QQ交流群: 786406537
 |01|官方提供的节点, 支持IPv4+IPv6接入|ha01.playl.net|广东深圳|  
 |02|gtem提供的节点，支持IPv4+IPv6接入|ha02.playl.net:5000|江苏宿迁|  
 |03|gtem提供的节点，支持IPv4接入|ha03.playl.net:2604|山东临沂|  
+|04|hthhgd提供的节点，支持IPv4接入|ha04.playl.net:55214|广东广州|  
+
 ::: tip 自选高可用节点
 如您觉得某个HA更适合自己的网络环境, 你可以通过以上的列表, 使用对应HA的连接地址连接  
 * 注意, 当对应HA无法连接时, 请使用默认的地址: **sccp.playl.net**  
@@ -40,6 +42,7 @@ Bedrock版QQ交流群: 786406537
 |:--:|-------|  
 |Dmitri_233|根系统管理员|  
 |gtem|私人社区管理员, HA02/03提供者|  
+|hthhgd|私人社区管理员, HA04提供者|
 
 ###  特别感谢/Special Thanks To:
 ![Paper](https://z3.ax1x.com/2021/08/27/hMKHN6.png)

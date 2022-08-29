@@ -18,10 +18,10 @@ module.exports = {
     ],
     sidebar: [
       ["/", "主页"],
-      ["/guide", "新手快速入门"],
+      ["/guide", "新成员快速入门"],
       {
-        title: "目录",
-        path: "/dirs",
+        title: "主社区",
+        path: "/Mainc",
         collapsable: false,
         sidebarDepth: 1,
         children: [
@@ -31,19 +31,19 @@ module.exports = {
             collapsable: true,
             sidebarDepth: 1,
             children: [
-              ["/command/tpa", "Tpa(玩家间传送)"],
-              ["/command/tpoint", "Tpoint(传送点功能)"],
-              ["/command/diffmod", "df(难度调整功能)"],
-              ["/command/landclaim", "landclaim(私人领地标记)"],
-              ["/command/coreprotect", "c(破坏/容器交互查询)"],
-              ["/command/other", "杂项命令(密码更改等高级功能)"]
+              ["/Mainc/command/tpa", "Tpa(玩家间传送)"],
+              ["/Mainc/command/tpoint", "Tpoint(传送点功能)"],
+              ["/Mainc/command/diffmod", "df(难度调整功能)"],
+              ["/Mainc/command/landclaim", "landclaim(私人领地标记)"],
+              ["/Mainc/command/coreprotect", "c(破坏/容器交互查询)"],
+              ["/Mainc/command/other", "杂项命令(密码更改等高级功能)"]
             ],
           },
-          ["/netmap", "网页地图"],
-          ["/faq", "FAQ(常见问题)"]
+          ["/Mainc/netmap", "网页地图"],
+          ["/Mainc/faq", "FAQ(常见问题)"]
         ]
       },
-      ["/updatelog/", "服务器更新日志"],
+      ["/updatelog/", "全社区更新日志"],
       ["/contact", "联系我们/社区信息"]
     ],
 

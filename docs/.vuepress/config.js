@@ -14,7 +14,7 @@ module.exports = {
       { text: "主页", link: "/" },
       { text: "服务器介绍", link: "/preface" },
       { text: "目录", link: "/dirs" },
-      { text: "论坛社区", link: "https://bbs.playl.net/forums/scccp/" },
+      { text: "加入QQ群", link: "/contact"},
     ],
     sidebar: [
       ["/", "主页"],
@@ -44,7 +44,7 @@ module.exports = {
         ]
       },
       ["/updatelog/", "服务器更新日志"],
-      ["/contact", "关于我们/联系我们"]
+      ["/contact", "联系我们/社区信息"]
     ],
 
     repo: "SCCCP-Team/SCCCPServerWiki",

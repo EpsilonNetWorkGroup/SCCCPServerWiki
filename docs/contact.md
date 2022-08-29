@@ -19,6 +19,7 @@ Bedrock交流群: 786406537
 |01|官方提供的节点, 支持IPv4+IPv6接入|ha01.playl.net|广东深圳|  
 |02|gtem提供的节点，支持IPv4+IPv6接入|ha02.playl.net:5000|江苏宿迁|  
 |03|gtem提供的节点，支持IPv4接入|ha03.playl.net:2604|山东临沂|  
+|04|hthhgd提供的节点，支持IPv4接入|ha04.playl.net:55214|广东广州|  
 
 ::: tip 自选高可用节点
 如您觉得某个HA更适合自己的网络环境, 你可以通过以上的列表, 使用对应HA的连接地址指定HA节点  
@@ -26,7 +27,7 @@ Bedrock交流群: 786406537
 注意, 当对应HA无法连接时, 请使用默认的地址: **sccp.playl.net**  
 :::
 ::: tip 指定HA无法连接?
-若您发现您的机器无法连接至指定的高可用节点，您可以前往 **[这里(非官方)](http://status.blsmc.top)** 查看对应HA的在线状态
+若您发现您的机器无法连接至指定的高可用节点，您可以前往 **[这里(非官方)](https://status.blsmc.top)** 查看对应HA的在线状态
 :::
 ::: warning 有关IPV6
 遗憾的是, Mojang的Api并没有IPV6的DNS记录, 但是Mojang的API使用了AWS CloudFront前端, 所以实际上是支持IPV6的, 只是Mojang不愿意启用他们, 可以将2600:9000:2012::地址加入hosts文件以解决问题, 官方启动器将无法登录, 因为客户端与启动器都不会解析IPV6记录, 导致没有使用IPV6加入服务器  
@@ -39,6 +40,7 @@ Bedrock交流群: 786406537
 |:--:|-------|  
 |Dmitri_233|根系统管理员|  
 |gtem|私人社区管理员, HA02/03提供者|  
+|hthhgd|私人社区管理员, HA04提供者|
 
 ###  特别感谢/Special Thanks To:
 ![Paper](https://z3.ax1x.com/2021/08/27/hMKHN6.png)

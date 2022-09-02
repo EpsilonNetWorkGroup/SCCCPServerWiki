@@ -25,7 +25,7 @@ module.exports = {
         collapsable: false,
         sidebarDepth: 1,
         children: [
-          ["/", "介绍主社区"],
+          ["/Mainc/", "介绍主社区"],
           {
             title: "命令",
             collapsable: true,

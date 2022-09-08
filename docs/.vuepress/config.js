@@ -40,6 +40,7 @@ module.exports = {
             ],
           },
           ["/Mainc/netmap", "网页地图"],
+          ["/Mainc/notallow", "不允许的行为/模组"],
           ["/Mainc/faq", "FAQ(常见问题)"]
         ]
       },

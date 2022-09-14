@@ -21,7 +21,7 @@
 
 ## 事件
 ### 2022年(第三年)
-* [Mid-Autumn Event 9/09 --> 9/12](Event/2022/Mid-Autumn)
+* [Mid-Autumn Event 9/09 --> 9/13](Event/2022/Mid-Autumn)
 * [HKIFF24 Event 8/17 --> 9/01](Event/2022/HKIFF24)
 * [Stardust Event 4/04 --> 4/07](Event/2022/Stardust)
 * [dventure SP Event 2/26 --> 3/10](Event/dventure)

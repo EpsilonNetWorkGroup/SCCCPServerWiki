@@ -18,7 +18,6 @@ Bedrock版QQ交流群: 786406537
 |:--:|-------|-------|----|  
 |01|官方提供的节点, 支持IPv4+IPv6接入|ha01.playl.net|广东深圳|  
 |02|gtem提供的节点，支持IPv4+IPv6接入|ha02.playl.net:5000|江苏宿迁|  
-|03|gtem提供的节点，支持IPv4接入|ha03.playl.net:2604|山东临沂|  
 |04|hthhgd提供的节点，支持IPv4接入|ha04.playl.net:55214|广东广州|  
 
 ::: tip 自选高可用节点

@@ -11,5 +11,5 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "author": "SCCCP-Team(https://github.com/SCCCP-Team/SCCCPServerWiki)"
+  "author": "SCCCP Community Server(https://github.com/EpsilonNetWorkGroup/SCCCPServerWiki.git)"
 }

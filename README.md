@@ -8,7 +8,7 @@ npm install --global yarn
 ```
 Clone项目, 并进入项目目录
 ```sh
-git clone https://github.com/SCCCP-Team/SCCCPServerWiki.git  
+git clone https://github.com/EpsilonNetWorkGroup/SCCCPServerWiki.git  
 cd SCCCPServerWiki  
 ```
 配置项目依赖  

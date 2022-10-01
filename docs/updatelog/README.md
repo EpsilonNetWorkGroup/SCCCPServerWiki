@@ -5,7 +5,7 @@
 * [**disappear(消声匿迹) 8/1 --> Current(当前)**](disappear)
 * [NIGHTHAVEN(永夜安港) 4/9 --> 8/1](NIGHTHAVEN)
 * [Portal(传送门) 2/20 --> 4/9](Portal)
-* [Jinyu(瑾瑜) 1/5 --> 2-20](Jinyu)
+* [Jinyu(瑾瑜) 1/5 --> 2/20](Jinyu)
 * [OUTGOING LINKS(发散想法) 2021年 --> 1/5](OUTGOINGLINKS)
   
 ::: details 2021年(第二年)内容

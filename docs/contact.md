@@ -2,6 +2,7 @@
 服务器地址: sccp.playl.net  
 Java版QQ交流群: 374790793  
 Bedrock版QQ交流群: 786406537
+电子邮件: contact@playl.net
 ```
 
 ## 社区列表

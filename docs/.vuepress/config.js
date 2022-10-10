@@ -48,7 +48,7 @@ module.exports = {
       ["/contact", "联系我们/社区信息"]
     ],
 
-    repo: "SCCCP-Team/SCCCPServerWiki",
+    repo: "EpsilonNetWorkGroup/SCCCPServerWiki",
     docsDir: "docs",
     editLinks: true,
     editLinkText: "在Github上编辑",

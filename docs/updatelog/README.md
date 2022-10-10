@@ -5,7 +5,7 @@
 * [**disappear(消声匿迹) 8/1 --> Current(当前)**](disappear)
 * [NIGHTHAVEN(永夜安港) 4/9 --> 8/1](NIGHTHAVEN)
 * [Portal(传送门) 2/20 --> 4/9](Portal)
-* [Jinyu(瑾瑜) 1/5 --> 2-20](Jinyu)
+* [Jinyu(瑾瑜) 1/5 --> 2/20](Jinyu)
 * [OUTGOING LINKS(发散想法) 2021年 --> 1/5](OUTGOINGLINKS)
   
 ::: details 2021年(第二年)内容
@@ -21,8 +21,9 @@
 
 ## 事件
 ### 2022年(第三年)
-* [**HKIFF24 Event 8/17 --> 9/01**](Event/2022/HKIFF24)
-* [Stardust Event 4/4 --> 4/7](Event/2022/Stardust)
+* [Mid-Autumn Event 9/09 --> 9/13](Event/2022/Mid-Autumn)
+* [HKIFF24 Event 8/17 --> 9/01](Event/2022/HKIFF24)
+* [Stardust Event 4/04 --> 4/07](Event/2022/Stardust)
 * [dventure SP Event 2/26 --> 3/10](Event/dventure)
   
 ::: details 2021年(第二年)内容

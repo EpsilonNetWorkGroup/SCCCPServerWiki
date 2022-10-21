@@ -2,7 +2,8 @@
 
 ## 发行版本列表
 ### 2022年(第三年)
-* [**disappear(消声匿迹) 8/1 --> Current(当前)**](disappear)
+* [Next Gen(下一世代) 8/1 --> Current(当前)](NextGen)
+* [disappear(消声匿迹) 8/1 --> 10/22](disappear)
 * [NIGHTHAVEN(永夜安港) 4/9 --> 8/1](NIGHTHAVEN)
 * [Portal(传送门) 2/20 --> 4/9](Portal)
 * [Jinyu(瑾瑜) 1/5 --> 2/20](Jinyu)

@@ -1,9 +1,11 @@
 ## 为您介绍SCCCP社区中的主社区服务器 
 
 **主社区是一个兼并生存与生电玩家体验, 时刻保持最新版本, 永不删档, 拥有成熟的玩法与规则, 其拥有长达三年的运行时间与版本过渡历史**  
-![home](https://s4.ax1x.com/2022/02/01/HFCJgS.jpg)
+![MainStorage](https://s1.ax1x.com/2022/11/07/xv6ZgU.png)
+<!-- ![home](https://s4.ax1x.com/2022/02/01/HFCJgS.jpg) -->
 在最开始的时候(1.15.2版本), 此服务器是运行在Minecraft Realms(我的世界官方领域)上的, 只给我们认识的人加入  
 很快, 面对Minecraft生态圈质量的下降, 我们决定建立自己的社区, 并开放了服务器并允许公共加入, 当然有规则, 正版玩家可以直接加入, 盗版玩家需要白名单, 这一规定也一直留到了现在, 作为整个社区统一的登录方式  
-![ender](https://s4.ax1x.com/2022/02/01/HFCuBd.jpg)
+<!-- ![ender](https://s4.ax1x.com/2022/02/01/HFCuBd.jpg) -->
+![StorageControl](https://s1.ax1x.com/2022/11/07/xv614x.png)
 
 [**准备好加入主社区了? 立即出发**](guide)  

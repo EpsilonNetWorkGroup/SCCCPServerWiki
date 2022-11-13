@@ -2,7 +2,8 @@
 
 ## 发行版本列表
 ### 2022年(第三年)
-* [**disappear(消声匿迹) 8/1 --> Current(当前)**](disappear)
+* [**Next Gen(下一世代) 8/1 --> Current(当前)**](NextGen)
+* [disappear(消声匿迹) 8/1 --> 10/22](disappear)
 * [NIGHTHAVEN(永夜安港) 4/9 --> 8/1](NIGHTHAVEN)
 * [Portal(传送门) 2/20 --> 4/9](Portal)
 * [Jinyu(瑾瑜) 1/5 --> 2/20](Jinyu)
@@ -21,6 +22,7 @@
 
 ## 事件
 ### 2022年(第三年)
+* [**Hallowmas Abyss Event 10/22 --> 11/19(进行中)**](Event/2022/HallowmasAbyss.md)
 * [Mid-Autumn Event 9/09 --> 9/13](Event/2022/Mid-Autumn)
 * [HKIFF24 Event 8/17 --> 9/01](Event/2022/HKIFF24)
 * [Stardust Event 4/04 --> 4/07](Event/2022/Stardust)

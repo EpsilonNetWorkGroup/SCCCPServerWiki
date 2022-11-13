@@ -4,6 +4,7 @@
 * 此列表仅为配合使用ClientGuard反作弊软件时加载Mod做参考, 不应视为使用以下Mod就不会被反作弊踢出!  
 目前CleintGuard仅支持Fabric, 此列表仅包括Fabric模组  
 :::  
+* [想要表达对此Mod列表的任何意见吗, 联系我们!](../contact)
 
 |绿色Mod|详细信息|  
 |:--:|-------|  
@@ -14,6 +15,10 @@
 |Starlight (Fabric)|[游戏光照计算优化](https://modrinth.com/mod/starlight)|  
 |Mod Menu|[加载模组列表](https://modrinth.com/mod/modmenu)|
 |ReplayMod|[记录游戏瞬间](https://modrinth.com/mod/replaymod)|  
+|malilib|[键位绑定库](https://www.curseforge.com/minecraft/mc-mods/malilib)|
+|Item Scroller|[更加方便的物品移动](https://www.curseforge.com/minecraft/mc-mods/item-scroller)|
+|Recipe Book Mass Craft|[更加方便的合成大量物品](https://modrinth.com/mod/recipebookmasscraft)|
+|Sort|[物品整理](https://modrinth.com/mod/sort)|
 
 * 普通Mod, 此类Mod有部分代码/缺陷可能导致作弊, 但导致作弊的部分通过ClientGuard禁用  
 
@@ -38,6 +43,3 @@
 |红色Mod|详细信息|  
 |:--:|-------|  
 |AdvancementInfo|[通过服务器数据包查看详细成就信息](https://modrinth.com/mod/advancementinfo)|  
-[想要告诉我们更多不合适的Mod吗, 联系我们!](../contact)
-  
-* [想要表达对此Mod列表的意见吗, 联系我们!](../contact)

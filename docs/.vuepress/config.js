@@ -40,7 +40,7 @@ module.exports = {
             ],
           },
           ["/Mainc/netmap", "网页地图"],
-          ["/Mainc/mods", "客户端修改允许列表(Mods)"],
+          ["/Mainc/mods", "客户端修改说明(ClientGuard支持)"],
           ["/Mainc/faq", "FAQ(常见问题)"]
         ]
       },

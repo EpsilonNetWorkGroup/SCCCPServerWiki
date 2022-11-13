@@ -7,8 +7,11 @@ SCCCPCenter是一个代理服务器, 对玩家身份进行验证, 向内部统�
 由第三方合作者管理的服务器, 更新记录必须记录在此Wiki, 通过SCCCPCenter连接  
 如果想成为第三方社区的服主, 请[联系我们](/contact)  
 
+## ClientGuard反作弊程序介绍以及安装
+
+
 ## 有关修改过的客户端
-如果您在进入SCCCPCenter时, 收到以下信息, 那么说明您的客户端*已被修改*.  
+如果您在进入SCCCPCenter时, 收到以下信息, 那么说明您的客户端*已被修改*, 建议安装ClientGuard反作弊程序.
 ![avatar](https://s4.ax1x.com/2022/02/20/Hqb6Ts.png)  
 这是为了提醒您, 你的客户端已经过修改, 可能不再支持最新的[玩家安全特性](https://help.minecraft.net/hc/en-us/articles/360052763631?ref=launcher),如Minecraft启动器弹出的警告一样, 服务器中的提醒不可忽略, 因为并不像启动器中一样需要点击确认  
 ![avatar](https://s4.ax1x.com/2022/02/20/HqbhlT.png)  

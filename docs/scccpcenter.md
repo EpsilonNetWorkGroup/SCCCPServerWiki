@@ -1,6 +1,11 @@
 ## ClientGuard反作弊程序介绍以及安装或更新
 SCCCPCenter支持ClientGuard反作弊软件, 他是[半开源](https://github.com/EpsilonNetWorkGroup/ClientGuard)的  
 玩家在安装完成后, SCCCPCenter与所有社区服务器都将可以获取客户端上反作弊用途必要的信息, 并在必要时执行HWID(机器码)封禁  
+::: warning 关于杀毒软件
+由于反作弊软件运行时所使用的权限很高，对于杀毒软件来说此类来历不明的软件很敏感，因此普遍遭到误报。  
+**同时为了避免下载到非我们官方发布的文件，请在下载后确认sha-256散列正确，并在交流群内确认报毒情况与类型**
+解决方法是购买由微软签发的EV 代码签名证书，但价格(9000RMB一年~3000RMB一年)目前对于我们来说负担不起，如有意帮助我们购买证书，请联系我们。
+:::
 * 安装ClientGuard后每社区都可能有对客户端环境要求不同的规则, 但ClientGuard始终对客户端进行保护以避免被恶意程序破坏  
 ::: details 展开安装/卸载/更新步骤
 1.首先点击此处[下载最新ClientGuard反作弊软件(0.9.8)](/assets/ClientGuard-0.9.8-SNAPSHOT-obf.jar), 下载完成后, 将其作为Fabric模组放入mods文件夹(仅支持Windows平台)  

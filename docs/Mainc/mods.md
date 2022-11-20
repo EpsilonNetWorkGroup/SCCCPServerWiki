@@ -1,8 +1,7 @@
-# 客户端修改(ClientGuard支持)说明
+# 主社区对安装ClientGuard后的特殊处理
 ::: tip 注意
-**若玩家安装了ClientGuard反作弊软件并只安装了以下列出的普通与绿色Mod, 那么服务器端反作弊将不会对玩家进行警告/预警与拉回**  
-* 此列表仅为配合使用ClientGuard反作弊软件时加载Mod做参考, 不应视为使用以下Mod就不会被反作弊踢出!  
-目前CleintGuard仅支持Fabric, 此列表仅包括Fabric模组  
+**若玩家安装了[ClientGuard反作弊软件](../scccpcenter)并只安装了以下列出的普通与绿色Mod, 那么服务器端反作弊将不会对玩家进行警告/预警与拉回**  
+* 此列表仅为配合使用ClientGuard反作弊软件时加载Mod做参考, 此列表仅包括Fabric模组  
 :::  
 * [想要表达对此Mod列表的任何意见吗, 联系我们!](../contact)
 

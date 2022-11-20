@@ -1,0 +1,2 @@
+console.log(window.atob
+    ('ICstKy0rLSstKy0rICstKy0rLSstKy0rLSstKy0rLSsgKy0rLSstKy0rLSstKyArLSstKy0rLSsKIHxTfEN8Q3xDfFB8IHxDfG98bXxtfHV8bnxpfHR8eXwgfFN8ZXxyfHZ8ZXxyfCB8V3xpfGt8aXwKICstKy0rLSstKy0rICstKy0rLSstKy0rLSstKy0rLSsgKy0rLSstKy0rLSstKyArLSstKy0rLSs='));

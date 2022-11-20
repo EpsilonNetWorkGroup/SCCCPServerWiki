@@ -1,9 +1,7 @@
 module.exports = {
   head: [
-    [
-      "link",
-      { rel: "icon", href: "/assets/img/server-icon.png"}
-    ]
+    [ "link", { rel: "icon", href: "/assets/img/server-icon.png"} ],
+    ['script',{ src: '/assets/banner.js' }]
   ],
   title: "SCCCP Community Server Wiki",
   description: "SCCCPServerWikiMark",
@@ -18,7 +16,7 @@ module.exports = {
     sidebar: [
       ["/", "主页"],
       ["/guide", "新成员快速入门"],
-      ["/scccpcenter", "何为SCCCPCenter"],
+      ["/scccpcenter", "反作弊软件与SCCCPCenter"],
       {
         title: "主社区",
         path: "/Mainc",
@@ -36,10 +34,11 @@ module.exports = {
               ["/Mainc/command/diffmod", "df(难度调整功能)"],
               ["/Mainc/command/landclaim", "landclaim(私人领地标记)"],
               ["/Mainc/command/coreprotect", "c(破坏/容器交互查询)"],
-              ["/Mainc/command/other", "杂项命令(密码更改等高级功能)"]
+              ["/Mainc/command/other", "杂项命令(高级功能)"]
             ],
           },
           ["/Mainc/netmap", "网页地图"],
+          ["/Mainc/mods", "使用ClientGuard时的特殊机制"],
           ["/Mainc/faq", "FAQ(常见问题)"]
         ]
       },

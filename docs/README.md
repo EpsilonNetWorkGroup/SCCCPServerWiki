@@ -16,10 +16,3 @@ features:
   details: 自1.15.2单体的生存服务器公开以来, 整个社区稳定运行已达三年, 还在不断更新更多内容...
 footer: 这不是Minecraft官方, 不由Mojang认可, 不隶属于Mojang. Minecraft是Mojang的商标 **SCCCP社区服务器支持IPV6**
 ---
-<script>
-  export default {
-    mounted () {
-        console.log(window.atob('ICstKy0rLSstKy0rICstKy0rLSstKy0rLSstKy0rLSsgKy0rLSstKy0rLSstKyArLSstKy0rLSsKIHxTfEN8Q3xDfFB8IHxDfG98bXxtfHV8bnxpfHR8eXwgfFN8ZXxyfHZ8ZXxyfCB8V3xpfGt8aXwKICstKy0rLSstKy0rICstKy0rLSstKy0rLSstKy0rLSsgKy0rLSstKy0rLSstKyArLSstKy0rLSs='));
-    }
-  }
-</script>

@@ -1,1 +1,1 @@
-document.querySelector('body').style.filter='grayscale(100%)';
+document.querySelector('body').style.filter='grayscale(90%)';

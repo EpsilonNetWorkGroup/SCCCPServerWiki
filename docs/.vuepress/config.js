@@ -2,7 +2,6 @@ module.exports = {
   head: [
     [ "link", { rel: "icon", href: "/assets/img/server-icon.png"} ],
     ['script',{ src: '/assets/banner.js' }],
-    ['script',{ src: '/assets/grayscale.js' } ]
   ],
   title: "SCCCP Community Server Wiki",
   description: "SCCCPServerWikiMark",

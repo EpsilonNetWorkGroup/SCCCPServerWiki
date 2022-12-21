@@ -14,5 +14,5 @@ features:
 #   details: 一支拥有软件开发经验的开发/管理团队, 同时拥有大量的Minecraft服务器管理经验, 保证服务器稳定流畅运行...
 - title: 稳定的游戏体验
   details: 自1.15.2单体的生存服务器公开以来, 整个社区稳定运行已达三年, 还在不断更新更多内容...
-footer: 这不是Minecraft官方, 不由Mojang认可, 不隶属于Mojang. Minecraft是Mojang的商标 **SCCCP社区服务器支持IPV6**
+footer: 这不是Minecraft官方, 不由Mojang认可, 不隶属于Mojang. Minecraft是Mojang的商标 *SCCCP社区服务器支持IPv4+IPv6接入*
 ---

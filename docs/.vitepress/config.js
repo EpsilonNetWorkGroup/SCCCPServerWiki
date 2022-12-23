@@ -27,11 +27,6 @@ module.exports = {
             message: '页面内容受到CC BY-NC-ND 4.0许可',
             copyright: '这不是Minecraft官方 不由Mojang认可 不隶属于Mojang Minecraft是Mojang的商标'
         },
-        algolia: {
-            appId: 'YCCNNULUI4',
-            apiKey: '74009ce3921f5f51f57fe4f71fff2b26',
-            indexName: 'scccpwiki'
-        },
         editLink: {
             pattern: 'https://github.com/EpsilonNetWorkGroup/SCCCPServerWiki/edit/master/docs/:path',
             text: '在Github上编辑'

@@ -33,7 +33,7 @@ module.exports = {
             indexName: 'scccpwiki'
         },
         editLink: {
-            pattern: 'https://github.com/EpsilonNetWorkGroup/SCCCPServerWiki/edit/main/docs/:path',
+            pattern: 'https://github.com/EpsilonNetWorkGroup/SCCCPServerWiki/edit/master/docs/:path',
             text: '在Github上编辑'
         },
         lastUpdatedText: '最后更新时间'
@@ -76,23 +76,4 @@ function sidebarmainc() {
           ]
         }
     ]
-    // return [
-    //     { text: '介绍主社区', link: '/Mainc/' },
-    //     {
-    //       text: '可用命令',
-    //       collapsible: true,
-    //       collapsed: false,
-    //       items: [
-    //         { text: 'Tpa(玩家间传送)', link: '/Mainc/command/tpa' },
-    //         { text: 'Tpoint(传送点功能)', link: '/Mainc/command/tpoint' },
-    //         { text: 'df(难度调整功能)', link: '/Mainc/command/diffmod' },
-    //         { text: 'landclaim(私人领地标记)', link: '/Mainc/command/landclaim' },
-    //         { text: 'c(破坏/容器交互查询)', link: '/Mainc/command/coreprotect' },
-    //         { text: '杂项命令(高级功能)', link: '/Mainc/command/other' },
-    //       ],
-    //     },
-    //     { text: '网页地图', link: '/Mainc/netmap' },
-    //     { text: '使用ClientGuard时的特殊机制', link: '/Mainc/mods' },
-    //     { text: 'FAQ(常见问题)', 'ink': '/Mainc/faq' }
-    // ]
 }

@@ -8,4 +8,4 @@
 <!-- ![ender](https://s4.ax1x.com/2022/02/01/HFCuBd.jpg) -->
 ![StorageControl](https://s1.ax1x.com/2022/11/07/xv614x.png)
 
-[**准备好加入主社区了? 立即出发**](guide)  
+[**准备好加入主社区了? 立即出发**](../guide)  

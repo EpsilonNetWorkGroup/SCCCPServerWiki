@@ -1,15 +1,17 @@
 {
   "name": "scccpserverwiki",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
-  "license": "copyright",
+  "author": "SCCCP Community",
+  "description": "SCCCP Community Server Wiki",
+  "repository": "https://github.com/EpsilonNetWorkGroup/SCCCPServerWiki.git",
+  "license": "UNLICENSED",
   "devDependencies": {
-    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
-    "vuepress": "^1.9.7"
+    "vitepress": "^1.0.0-alpha.31"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
-  "author": "SCCCP Community Server(https://github.com/EpsilonNetWorkGroup/SCCCPServerWiki.git)"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  }
 }

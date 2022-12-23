@@ -72,7 +72,7 @@ function sidebarmainc() {
             },
             { text: '网页地图', link: '/Mainc/netmap' },
             { text: '使用ClientGuard时的特殊机制', link: '/Mainc/mods' },
-            { text: 'FAQ(常见问题)', 'ink': '/Mainc/faq' }
+            { text: 'FAQ(常见问题)', link: '/Mainc/faq' }
           ]
         }
     ]

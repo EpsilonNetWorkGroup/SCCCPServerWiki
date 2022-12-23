@@ -7,8 +7,12 @@
   "repository": "https://github.com/EpsilonNetWorkGroup/SCCCPServerWiki.git",
   "license": "UNLICENSED",
   "devDependencies": {
+    "flexsearch": "^0.7.31",
+    "markdown-it": "^13.0.1",
+    "segment": "^0.1.3",
     "vitepress": "^1.0.0-alpha.31",
-    "vitepress-plugin-music": "^0.0.9"
+    "vitepress-plugin-music": "^0.0.9",
+    "vitepress-plugin-search": "^1.0.4-alpha.17"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",

@@ -20,7 +20,9 @@ segment.useDefault();
 // console.log(segment.doSegment('这是一个基于Node.js的中文分词模块。'));
 
 var options = {
-
+  // lang
+  buttonLabel: "搜索",
+  placeholder: "搜索文档",
   // 采用分词器优化，
   encode: function (str) {
     return segment.doSegment(str, {simple: true});

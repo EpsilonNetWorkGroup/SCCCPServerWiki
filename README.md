@@ -1,7 +1,7 @@
 这里是SCCCP社区服务器的官方WIKI, 欢迎贡献(PR请求)
 
 ## 如何在本地构建测试环境
-在开始前,需要自行安装nodejs18以上  
+在开始前,需要自行安装nodejs17以上  
 安装yarn  
 ```sh
 npm install --global yarn  

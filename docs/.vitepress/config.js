@@ -1,3 +1,5 @@
+import { getSidebar } from 'vitepress-plugin-auto-sidebar'
+
 module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/img/server-icon.png'}],
@@ -15,6 +17,7 @@ module.exports = {
                 text: '目录',
                 items: navdir()
             },
+            { text: '全社区更新日志', link: '/updatelog/' },
             { text: '取得交流/社区信息', link: '/contact'},
         ],
         sidebar: {

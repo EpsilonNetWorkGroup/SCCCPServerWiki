@@ -32,6 +32,7 @@ module.exports = {
             pattern: 'https://github.com/EpsilonNetWorkGroup/SCCCPServerWiki/edit/master/docs/:path',
             text: '在Github上编辑'
         },
+        outlineTitle: '在本页',
         lastUpdatedText: '最后更新时间'
     }
 }

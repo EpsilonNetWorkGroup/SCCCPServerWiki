@@ -1,5 +1,3 @@
-import { getSidebar } from 'vitepress-plugin-auto-sidebar'
-
 module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/img/server-icon.png'}],

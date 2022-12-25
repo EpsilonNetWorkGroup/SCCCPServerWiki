@@ -3,4 +3,6 @@ node_modules
 *.log
 dist
 .env
-yarn.lock
+cache
+settings.json
+.vscode

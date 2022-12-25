@@ -3,7 +3,7 @@ name: build wiki
 on: [pull_request]
 
 jobs:
-  build-vuepress:
+  build-wiki:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

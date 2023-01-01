@@ -64,6 +64,7 @@ function sidebarmainc() {
                     { text: 'df(难度调整功能)', link: '/Mainc/command/diffmod' },
                     { text: 'landclaim(私人领地标记)', link: '/Mainc/command/landclaim' },
                     { text: 'c(破坏/容器交互查询)', link: '/Mainc/command/coreprotect' },
+                    { text: 'scccpext(扩展功能资源包)', link: '/Mainc/command/scccpext' },
                     { text: '杂项命令(高级功能)', link: '/Mainc/command/other' },
                 ],
             },

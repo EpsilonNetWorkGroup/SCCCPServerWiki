@@ -8,18 +8,18 @@ const playlist = [
   {
     name: '5',
     author: 'Samuel Åberg & Jagdaggar Remix',
-    file: '/bgm/Disc 5 Jagdaggar Remix.mp3',
+    file: 'https://gitcode.net/Dmitri233/SCCCPServerWiki/-/raw/master/docs/public/bgm/Disc%205%20Jagdaggar%20Remix.mp3',
   },
   {
     name: 'Infinite Amethyst',
     author: 'Lena Raine',
-    file: '/bgm/Infinite Amethyst.ogg',
+    file: 'https://gitcode.net/Dmitri233/SCCCPServerWiki/-/raw/master/docs/public/bgm/Infinite%20Amethyst.ogg',
     hide: false
   },
   {
     name: 'Otherside',
     author: 'Lena Raine',
-    file: '/bgm/Otherside.ogg',
+    file: 'https://gitcode.net/Dmitri233/SCCCPServerWiki/-/raw/master/docs/public/bgm/Otherside.ogg',
     hide: false
   },
 ]

@@ -8,7 +8,7 @@ SCCCPCenter支持ClientGuard反作弊软件, 他是[半开源](https://github.co
 :::
 * 安装ClientGuard后每社区都可能有对客户端环境要求不同的规则, 但ClientGuard始终对客户端进行保护以避免被恶意程序破坏  
 ::: details 展开安装/卸载/更新步骤(目前支持Fabric 1.19.3)
-1.首先点击此处[下载最新ClientGuard反作弊软件(0.9.8)](/ClientGuard-0.9.8-SNAPSHOT-obf.jar), 下载完成后, 将其作为Fabric模组放入mods文件夹(仅支持Windows平台)  
+1.首先点击此处[下载最新ClientGuard反作弊软件(0.9.8)](https://gitcode.net/Dmitri233/SCCCPServerWiki/-/raw/master/docs/public/ClientGuard-0.9.8-SNAPSHOT-obf.jar), 下载完成后, 将其作为Fabric模组放入mods文件夹(仅支持Windows平台)  
 **重要, 下载完成后请验证文件SHA-256：D163F3B3281A29284F37CA852E1970265287001AA03614853CA73FA8CA548261**  
 2.现在导航到您的mods文件夹, 对于官方启动器, 你可以这样做:
 ![indexmods](https://s1.ax1x.com/2022/11/20/zMaQzT.png)  

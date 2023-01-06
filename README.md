@@ -1,4 +1,4 @@
-这里是 SCCCP社区服务器 的官方WIKI, 欢迎以PR请求的方式贡献  
+这里是 SCCCP社区服务器 的官方WIKI, 欢迎贡献  
 gitcode 仓库: https://gitcode.net/Dmitri233/SCCCPServerWiki  
 gitcode 仓库不接受拉取请求(Pull Request), 仅镜像, 较大的public类文件请使用gitcode镜像仓库的直接链接  
 

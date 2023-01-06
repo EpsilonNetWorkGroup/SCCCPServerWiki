@@ -1,6 +1,6 @@
-这里是SCCCP社区服务器的官方WIKI, 欢迎贡献(PR请求)  
-gitcode仓库: https://gitcode.net/Dmitri233/SCCCPServerWiki  
-gitcode仓库不接受提交, 仅镜像, 大public类文件请使用gitcode镜像仓库的直接链接  
+这里是 SCCCP社区服务器 的官方WIKI, 欢迎以PR请求的方式贡献  
+gitcode 仓库: https://gitcode.net/Dmitri233/SCCCPServerWiki  
+gitcode 仓库不接受拉取请求(Pull Request), 仅镜像, 较大的public类文件请使用gitcode镜像仓库的直接链接  
 
 ## 如何在本地构建测试环境
 在开始前,需要自行安装node建议版本16  

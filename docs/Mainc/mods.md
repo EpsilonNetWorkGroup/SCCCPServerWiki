@@ -13,6 +13,10 @@
 |[Lithium](https://modrinth.com/mod/lithium)|游戏逻辑优化|
 |[Starlight (Fabric)](https://modrinth.com/mod/starlight)|游戏光照计算优化|
 |[EntityCulling](https://modrinth.com/mod/entityculling)|更进一步的实体渲染优化|
+|[LazyDFU](https://modrinth.com/mod/lazydfu)|DataFixerUpper 懒加载优化|
+|[Ferrite-Core](https://modrinth.com/mod/ferrite-core)|内存优化|
+|[SmoothBoot](https://modrinth.com/mod/smoothboot-fabric)|优化启动游戏时占用满线程的加载方式|
+|[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)|动态光源|
 |[Mod Menu](https://modrinth.com/mod/modmenu)|模组菜单|
 |[ReplayMod](https://modrinth.com/mod/replaymod)|游戏重放|
 |[malilib](https://www.curseforge.com/minecraft/mc-mods/malilib)|键位绑定库(依赖)|

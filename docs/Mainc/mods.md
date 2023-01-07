@@ -8,27 +8,33 @@
 |绿色Mod|详细信息|  
 |:--:|-------|  
 |[Fabric API](https://modrinth.com/mod/fabric-api)|为其他Mod提供支持|
-|[Iris Shaders](https://modrinth.com/mod/iris)|着色器|
-|[Sodium](https://modrinth.com/mod/sodium)|游戏渲染优化|
-|[Lithium](https://modrinth.com/mod/lithium)|游戏逻辑优化|
-|[Starlight (Fabric)](https://modrinth.com/mod/starlight)|游戏光照计算优化|
+|[Iris Shaders](https://modrinth.com/mod/iris)|光影支持(着色器)(Sodium扩展)|
+|[Sodium](https://modrinth.com/mod/sodium)|渲染优化|
+|[Lithium](https://modrinth.com/mod/lithium)|逻辑优化|
+|[Starlight (Fabric)](https://modrinth.com/mod/starlight)|光照优化|
 |[EntityCulling](https://modrinth.com/mod/entityculling)|更进一步的实体渲染优化|
-|[LazyDFU](https://modrinth.com/mod/lazydfu)|DataFixerUpper 懒加载优化|
+|[LazyDFU](https://modrinth.com/mod/lazydfu)|预编译初始化优化|
 |[Ferrite-Core](https://modrinth.com/mod/ferrite-core)|内存优化|
-|[SmoothBoot](https://modrinth.com/mod/smoothboot-fabric)|优化启动游戏时占用满线程的加载方式|
-|[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)|动态光源|
+|[SmoothBoot](https://modrinth.com/mod/smoothboot-fabric)|启动时占用满线程优化|
 |[Mod Menu](https://modrinth.com/mod/modmenu)|模组菜单|
+|[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)|动态光源|
 |[ReplayMod](https://modrinth.com/mod/replaymod)|游戏重放|
-|[malilib](https://www.curseforge.com/minecraft/mc-mods/malilib)|键位绑定库(依赖)|
+|[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)|3D双层皮肤|
+|[MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)|键位绑定库(Item Scroller依赖)|
 |[Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller)|更加方便的物品移动|
-|[Recipe Book Mass Craft](https://modrinth.com/mod/recipebookmasscraft)|更加方便的合成大量物品|
-|[Sort](https://modrinth.com/mod/sort)|物品整理|
+|[Recipe Book Mass Craft](https://modrinth.com/mod/recipebookmasscraft)|更加方便的合成大量物品(Item Scroller扩展)|
+|[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)|Kotlin语言支持(Inventory Profiles Next依赖)|
+|[libIPN](https://modrinth.com/mod/libipn)|下一代键位绑定库(Inventory Profiles Next依赖)|
 
 * 普通Mod, 此类Mod有部分代码/缺陷可能导致作弊, 但导致作弊的部分通过ClientGuard禁用  
 
 |普通Mod|详细信息|  
 |:--:|-------|  
-|暂无|暂无|  
+|[Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)]|
+下一代的物品移动/整理, 以下作弊功能已被禁用:
+* 不可自动补货创造物品栏中 工具/战斗/食物与饮品 类型的物品
+* 不可将物品直接捡到背包, 这违反移动方式
+|  
 
 * 黄色Mod, 此类Mod有部分代码/缺陷可能导致作弊, 因此暂无法考虑进入绿色Mod列表  
 
@@ -46,4 +52,5 @@
 
 |红色Mod|详细信息|  
 |:--:|-------|  
-|[AdvancementInfo](https://modrinth.com/mod/advancementinfo)|通过服务器数据包查看详细成就信息| 
+|[AdvancementInfo](https://modrinth.com/mod/advancementinfo)|通过服务器数据包查看详细成就信息|
+|[Cat Eyes](https://www.curseforge.com/minecraft/mc-mods/cat-eyes-night-vision-toggle-mod)|夜视忽略黑暗失明|

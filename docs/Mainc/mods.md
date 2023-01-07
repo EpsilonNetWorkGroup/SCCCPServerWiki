@@ -30,11 +30,7 @@
 
 |普通Mod|详细信息|  
 |:--:|-------|  
-|[Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)]|
-下一代的物品移动/整理, 以下作弊功能已被禁用:
-* 不可自动补货创造物品栏中 工具/战斗/食物与饮品 类型的物品
-* 不可将物品直接捡到背包, 这违反移动方式
-|  
+|[Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)|下一代的物品移动/整理, 以下功能已被禁用:<br>* 不可自动补货 工具/战斗/食物与饮品 类型的物品<br>* 不可将物品直接捡到背包, 这违反移动方式|
 
 * 黄色Mod, 此类Mod有部分代码/缺陷可能导致作弊, 因此暂无法考虑进入绿色Mod列表  
 

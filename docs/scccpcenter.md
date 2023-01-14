@@ -24,7 +24,7 @@ SCCCPCenter支持ClientGuard反作弊软件, 他是[半开源](https://github.co
 :::
 
 ## 高可用网络
-高可用网络由各HA(高可用节点, 由官方或其他人提供的服务器)组成, 最终允许玩家通过互联网连接到SCCCPCenter  
+高可用网络由各SCCCPHA(网络节点, 由官方或其他人提供的服务器)组成, 最终允许玩家通过互联网连接到SCCCPCenter  
 ## SCCCPCenter
 SCCCPCenter是一个代理服务器, 对玩家身份进行验证, 向内部统一UUID, 皮肤, 并允许玩家连接到各个不同的社区  
 必须要通过高可用节点才能够使玩家在公共互联网上连接SCCCPCenter  

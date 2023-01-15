@@ -2,7 +2,7 @@
 
 ## 发行版本列表
 ### 2023年(第四年)
-* [**Cloud Based(云端计算) 1/15 --> Current(当前)**](CloudBased/)
+* [**Cloud Based(云端运算) 1/15 --> Current(当前)**](CloudBased/)
 ::: details 2022年(第三年)内容
 * [Next Gen(下一世代) 8/1 --> 2023年](NextGen/)
 * [disappear(消声匿迹) 8/1 --> 10/22](disappear/)

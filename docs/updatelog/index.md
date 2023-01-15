@@ -1,14 +1,15 @@
 # 这里记录整个社区的更新记录
 
 ## 发行版本列表
-### 2022年(第三年)
-* [**Next Gen(下一世代) 8/1 --> Current(当前)**](NextGen/)
+### 2023年(第四年)
+* [**Cloud Based(云端计算) 1/15 --> Current(当前)**](CloudBased/)
+::: details 2022年(第三年)内容
+* [Next Gen(下一世代) 8/1 --> 2023年](NextGen/)
 * [disappear(消声匿迹) 8/1 --> 10/22](disappear/)
 * [NIGHTHAVEN(永夜安港) 4/9 --> 8/1](NIGHTHAVEN/)
 * [Portal(传送门) 2/20 --> 4/9](Portal/)
 * [Jinyu(瑾瑜) 1/5 --> 2/20](Jinyu/)
-* [OUTGOING LINKS(发散想法) 2021年 --> 1/5](OUTGOINGLINKS/)
-  
+:::
 ::: details 2021年(第二年)内容
 * [OUTGOING LINKS(发散想法) 12/11 --> 2022年](OUTGOINGLINKS/)
 * [Canary(金丝雀) 11/19 --> 12/11](Canary/)

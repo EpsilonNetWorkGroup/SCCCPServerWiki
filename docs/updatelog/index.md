@@ -23,7 +23,7 @@
 
 ## 事件
 ### 2022年(第三年)
-* [**Newyear Event 2023/01/01 --> 2023/01/25(进行中)**](Event/2022/Newyear)
+* [Newyear Event 2023/01/01 --> 2023/01/25](Event/2022/Newyear)
 * [Hallowmas Abyss Event 10/22 --> 11/19](Event/2022/HallowmasAbyss)
 * [Mid-Autumn Event 9/09 --> 9/13](Event/2022/Mid-Autumn)
 * [HKIFF24 Event 8/17 --> 9/01](Event/2022/HKIFF24)

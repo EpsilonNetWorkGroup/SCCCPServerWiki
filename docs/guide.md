@@ -33,6 +33,14 @@
 /scccpcenter chatoff ->安静模式, 进入社区与聊天信息互不同步, 不接收其他社区的信息, 并完全隔绝社区聊天系统  
 /scccpcenter chatall ->爆炸模式, 在默认模式基础上, 还接收其他社区的聊天  
 :::  
+### GPT聊天功能 (SCCCPCenter通用命令)
+命令: `/scccpcenter [gpt操作] <特定参数>`
+::: tip 示例
+```
+/scccpcenter gpt 你好, 你能为我做什么
+```
+输入/scccpcenter获取详细帮助, 此功能不受到群聊命令的tokens限制, 并且聊天保密  
+:::  
 ### 修改密码 (SCCCPCenter通用命令)
 命令: `/changepass <原密码> <新密码>` `/changepassword <原密码> <新密码>` 
 ::: tip 示例

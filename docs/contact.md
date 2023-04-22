@@ -20,6 +20,7 @@ Bedrock版QQ交流群: 786406537
 |HA组|详细信息|地区|  
 |:--:|-----------|--------|  
 |01|gtem提供, 支持IPv4+IPv6接入, 无RefHA特性|内蒙古|  
+|02|hello_xin提供, 支持IPv4接入|北京市|  
 |0A|官方提供, 仅IPv4接入, 无RefHA特性, 手动使用ha0a.playl.net连接|海外任播(40+地点及服务器)|  
 
 ::: warning 无法连接?
@@ -28,11 +29,8 @@ Bedrock版QQ交流群: 786406537
 :::
 
 ::: warning 有关IPV6
-遗憾的是, Mojang的Api并没有IPV6的DNS记录, 但是Mojang的API使用了AWS CloudFront前端, 所以实际上是支持IPV6的, 只是Mojang不愿意启用他们, 可以将2600:9000:2012::地址加入hosts文件以解决问题, 官方启动器将无法登录, 因为客户端与启动器都不会解析IPV6记录, 导致没有使用IPV6加入服务器  
-同时在Minecraft客户端偏好使用IPV4, 导致IPV6不会被自动使用  
-话虽如此, 你依然可以通过手动解析某HA的IPV6地址并使用该IPV6地址加入服务器  
-  
-您可使用 `Java虚拟机参数(JVM Args)` `-Djava.net.preferIPv6Addresses=true` 来使 Minecraft 优先使用 IPv6 协议连接  
+遗憾的是, Mojang的Api并没有IPV6的DNS记录, 但是Mojang的API使用了AWS CloudFront前端, 所以实际上是支持IPV6的, 只是Mojang不愿意启用他们, 可以将2600:9000:2012::地址加入hosts文件以解决与MojangAPI之间用IPV6联系的问题, 官方启动器将无法登录, 因为客户端与启动器都不会解析IPV6记录, 导致没有使用IPV6加入服务器, 同时在Minecraft客户端中偏好使用IPV4, 导致IPV6不会被自动使用  
+话虽如此, 您可使用 `Java虚拟机参数(JVM Args)` `-Djava.net.preferIPv6Addresses=true` 来使 Minecraft 优先使用 IPv6 协议连接  
 :::
 
 ## 现任工作人员列表
@@ -42,7 +40,7 @@ Bedrock版QQ交流群: 786406537
 |:--:|-------|  
 |Dmitri_233|根系统管理员|  
 |gtem|bluestone第三方社区管理员, HA01提供者|  
-|hthhgd|TSS第三方社区管理员, HA02提供者|
+|hello_xin|TSS第三方社区管理员, HA02提供者|
 ### 工作人员避嫌
 在管理员拥有比其它用户多的管理权限的同时，管理员的行为也有以下限制，并受到所有社区成员的监督：  
 管理员不应该在一项事宜中使用普通用户和管理员的双重身份，而应该要么使用普通用户的身份，要么使用管理员的身份，尽管用户是同一个人。在以下场合的具体限制有：

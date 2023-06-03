@@ -2,7 +2,7 @@
 
 ## 发行版本列表
 ### 2023年(第四年)
-* [**Beating Retreat(鸣金收兵)  06/03 --> Current(当前)**](BeatingReteat/)
+* [**Beating Retreat(鸣金收兵)  06/03 --> Current(当前)**](BeatingRetreat/)
 * [Cloud Based(云端运算) 01/15 --> 06/03](CloudBased/)
 ::: details 2022年(第三年)内容
 * [Next Gen(下一世代) 8/1 --> 2023年](NextGen/)

@@ -8,19 +8,11 @@ SCCCPCenter支持ClientGuard反作弊软件, 他是[半开源](https://github.co
 :::
 * 安装ClientGuard后每社区都可能有对客户端环境要求不同的规则, 但ClientGuard始终对客户端进行保护以避免被恶意程序破坏  
 ::: details 展开安装/卸载/更新步骤(目前支持Fabric 1.19.4)
-1.首先点击此处[下载最新ClientGuard反作弊软件(0.9.10)](https://gitcode.net/Dmitri233/SCCCPServerWiki/-/raw/master/docs/public/ClientGuard-0.9.10-SNAPSHOT-obf.jar), 下载完成后, 将其作为Fabric模组放入mods文件夹(仅支持Windows平台)  
-**重要, 下载完成后请验证文件SHA-256：1d6e67fd9ecd92eb402b8b9e5427d00e27435daccfffbf72d53178f541a14ac0**  
-2.现在导航到您的mods文件夹, 对于官方启动器, 你可以这样做:
+1.首先点击此处[下载最新ClientGuard反作弊软件(1.0.0)](https://gitcode.net/Dmitri233/SCCCPServerWiki/-/raw/master/docs/public/ClientGuard-1.0.0-obf.jar), 下载完成后, 将其作为Fabric模组放入mods文件夹(仅支持Windows平台)  
+**重要, 下载完成后请验证文件SHA-256：37ace377520a20eb957501e26ef0693cd6dc3a2d82d57def4dacd781f24d6807**  
+2.然后开启一次游戏, ClientGuard应作为mod被加载, 然后, 导航到您的mods文件夹, 对于官方启动器, 你可以这样做:
 ![indexmods](https://s1.ax1x.com/2022/11/20/zMaQzT.png)  
-3.右键mod文件, 打开属性并复制mod文件的完整位置:  
-![copydir](https://s1.ax1x.com/2022/11/20/zMa1QU.png)  
-4.打开一个带有管理员权限的命令提示符(cmd):  
-![admincmd](https://s1.ax1x.com/2022/11/20/zMa3yF.png)  
-5.在命令提示符输入mod文件所在盘符回车确认, 然后输入cd后面加空格与刚刚从属性复制的文件位置:  
-![gotodir](https://s1.ax1x.com/2022/11/20/zMaKJ0.png)  
-6.使用java运行mod文件, 如果没有java命令, 请自行指定java.exe的完整路径:  
-![install](https://s1.ax1x.com/2022/11/20/zMaMWV.png)  
-7.按照弹出的提示, 接受隐私策略后即可安装/卸载ClientGuard反作弊软件, 更新请先卸载再安装  
+3.找到ClientGuardInstaller.exe, 双击运行, 运行后点击安装服务, 接受隐私策略后即可安装/卸载ClientGuard反作弊软件, 更新请先卸载再安装 
 :::
 
 ## 高可用网络

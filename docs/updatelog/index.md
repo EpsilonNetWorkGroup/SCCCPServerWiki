@@ -5,15 +5,15 @@
 * [**Beating Retreat(鸣金收兵)  06/03 --> Current(当前)**](BeatingRetreat/)
 * [Cloud Based(云端运算) 01/15 --> 06/03](CloudBased/)
 ::: details 2022年(第三年)内容
-* [Next Gen(下一世代) 8/1 --> 2023年](NextGen/)
-* [disappear(消声匿迹) 8/1 --> 10/22](disappear/)
-* [NIGHTHAVEN(永夜安港) 4/9 --> 8/1](NIGHTHAVEN/)
-* [Portal(传送门) 2/20 --> 4/9](Portal/)
-* [Jinyu(瑾瑜) 1/5 --> 2/20](Jinyu/)
+* [Next Gen(下一世代) 8/1 --> 2023年](2022/NextGen/)
+* [disappear(消声匿迹) 8/1 --> 10/22](2022/disappear/)
+* [NIGHTHAVEN(永夜安港) 4/9 --> 8/1](2022/NIGHTHAVEN/)
+* [Portal(传送门) 2/20 --> 4/9](2022/Portal/)
+* [Jinyu(瑾瑜) 1/5 --> 2/20](2022/Jinyu/)
 :::
 ::: details 2021年(第二年)内容
-* [OUTGOING LINKS(发散想法) 12/11 --> 2022年](OUTGOINGLINKS/)
-* [Canary(金丝雀) 11/19 --> 12/11](Canary/)
+* [OUTGOING LINKS(发散想法) 12/11 --> 2022年](2021/OUTGOINGLINKS/)
+* [Canary(金丝雀) 11/19 --> 12/11](2021/Canary/)
 :::
   
 ::: details 关于发行版本

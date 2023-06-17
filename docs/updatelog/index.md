@@ -24,6 +24,7 @@
 
 ## 事件
 ### 2023年(第四年)
+* [**DragonBoat Event 2023/06/17 --> Current(进行中)**](Event/2023/DragonBoat)
 * [RitualEnlightenment SP Event 2023/06/03 --> 2023/06/13](Event/RitualEnlightenment)
 * [Stardust Event 2023/06/03 --> 2023/06/13](Event/2023/Stardust)
 ::: details 2022年(第三年)内容

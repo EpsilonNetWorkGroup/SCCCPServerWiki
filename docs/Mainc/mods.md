@@ -18,6 +18,8 @@
 |[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)|动态光源|
 |[ReplayMod](https://modrinth.com/mod/replaymod)|游戏重放|
 |[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)|3D双层皮肤|
+|[Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair)|小地图与路径点|
+|[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)|小地图的世界地图|
 |[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)|Kotlin语言支持(Inventory Profiles Next依赖)|
 |[libIPN](https://modrinth.com/mod/libipn)|下一代键位绑定库(Inventory Profiles Next依赖)|
 

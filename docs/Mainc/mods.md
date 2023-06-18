@@ -20,6 +20,7 @@
 |[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)|3D双层皮肤|
 |[Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair)|小地图与路径点|
 |[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)|小地图的世界地图|
+|[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)|在不选中窗口时限制FPS|
 |[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)|Kotlin语言支持(Inventory Profiles Next依赖)|
 |[libIPN](https://modrinth.com/mod/libipn)|下一代键位绑定库(Inventory Profiles Next依赖)|
 

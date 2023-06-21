@@ -13,7 +13,7 @@ const playlist = [
   {
     name: '5',
     author: 'Samuel Åberg & Jagdaggar Remix',
-    file: 'https://gitcode.net/Dmitri233/SCCCPServerWikiPublicFile/-/raw/main/bgm/Infinite%20Amethyst.ogg',
+    file: 'https://gitcode.net/Dmitri233/SCCCPServerWikiPublicFile/-/raw/main/bgm/Disc%205%20Jagdaggar%20Remix.mp3',
   },
   {
     name: 'Infinite Amethyst',

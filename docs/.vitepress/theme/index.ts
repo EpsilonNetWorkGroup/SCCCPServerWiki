@@ -6,6 +6,11 @@ import 'vitepress-plugin-music/lib/css/index.css'
 
 const playlist = [
   {
+    name: 'Relic',
+    author: 'Aaron Cherof',
+    file: 'https://gitcode.net/Dmitri233/SCCCPServerWikiPublicFile/-/raw/main/bgm/Relic.ogg',
+  },
+  {
     name: '5',
     author: 'Samuel Åberg & Jagdaggar Remix',
     file: 'https://gitcode.net/Dmitri233/SCCCPServerWikiPublicFile/-/raw/main/bgm/Infinite%20Amethyst.ogg',

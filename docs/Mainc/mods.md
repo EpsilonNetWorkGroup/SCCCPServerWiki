@@ -2,6 +2,7 @@
 ::: tip 注意
 **若玩家安装了[ClientGuard反作弊软件](../scccpcenter)并只安装了以下列出的普通与绿色Mod, 那么服务器端反作弊将不会对玩家进行警告/预警与拉回**  
 * 此列表仅为配合使用ClientGuard反作弊软件时加载Mod做参考, 此列表仅包括Fabric模组  
+* 不要安装这里列出的全部Mod, 您应该只选择自己需要的Mod, 当重复Mod功能出现冲突时, 你的游戏就会出现问题  
 :::  
 * [想要表达对此Mod列表的任何意见吗, 联系我们!](../contact)
 
@@ -20,7 +21,7 @@
 |[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)|3D双层皮肤|
 |[Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair)|小地图与路径点|
 |[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)|小地图的世界地图|
-|[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)|在不选中窗口时限制FPS|
+|[Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller)|物品存取改进|
 |[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)|Kotlin语言支持(Inventory Profiles Next依赖)|
 |[libIPN](https://modrinth.com/mod/libipn)|下一代键位绑定库(Inventory Profiles Next依赖)|
 
@@ -28,15 +29,15 @@
 
 |普通Mod|详细信息|  
 |:--:|-------|  
-|[Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)|下一代的物品移动/整理, 以下功能已被禁用:<br>* 不可自动补货 工具/战斗/食物与饮品 类型的物品<br>* 不可将物品直接捡到背包, 这违反移动方式|
+|[Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)|下一代的物品移动/整理, 以下功能已被禁用:<br>* 不可自动补货 工具/战斗/食物与饮品 类型的物品<br>* 补货时将会强制打开玩家背包<br>* 不可将物品直接捡到背包, 这违反移动方式|
+|[Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)|物品整理, 以下功能已被禁用:<br>* 不可自动补货 工具/战斗/食物与饮品 类型的物品<br>* 补货时将会强制打开玩家背包<br>* 不可使用自动选择工具|
+|[Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)|原理图投影, 以下功能已被禁用:<br>* 不可使用轻松放置<br>* 中键快速选择投影虚假方块将会强制打开背包|
 
 * 黄色Mod, 此类Mod有部分代码/缺陷可能导致作弊, 因此暂无法考虑进入绿色Mod列表  
 
 |黄色Mod|详细信息|  
 |:--:|-------|  
-|[Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)|自动图腾功能导致作弊|
 |[Sodium Extra](https://modrinth.com/mod/sodium-extra)|移除雾功能导致作弊|
-|[Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)|轻松放置忽略正常的放置规则|
 |[AppleSkin](https://modrinth.com/mod/appleskin)|查看隐藏的饱食度|
 |[Multiconnect](https://modrinth.com/mod/multiconnect)|忽略了部分协议, 导致反作弊软件无法正常运作|
 

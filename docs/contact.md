@@ -31,7 +31,7 @@ Bedrock版QQ交流群: 786406537
 :::
 
 ::: warning 有关IPV6
-遗憾的是, Mojang的Api并没有IPV6的DNS记录, 但是Mojang的API使用了AWS CloudFront前端, 所以实际上是支持IPV6的, 只是Mojang不愿意启用他们, 可以将2600:9000:2012::地址加入hosts文件以解决与MojangAPI之间用IPV6联系的问题, 官方启动器将无法登录, 因为客户端与启动器都不会解析IPV6记录, 导致没有使用IPV6加入服务器, 同时在Minecraft客户端中偏好使用IPV4, 导致IPV6不会被自动使用  
+遗憾的是, 在Minecraft客户端中偏好使用IPV4, 导致IPV6不会被自动使用  
 话虽如此, 您可使用 `Java虚拟机参数(JVM Args)` `-Djava.net.preferIPv6Addresses=true` 来使 Minecraft 优先使用 IPv6 协议连接  
 :::
 

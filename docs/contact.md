@@ -40,7 +40,7 @@ Bedrock版QQ交流群: 786406537
 
 |管理员|详细信息|  
 |:--:|-------|  
-|Dmitri_233|根系统管理员|  
+|CamoDmi|系统管理员|  
 |3nc4|bluestone第三方社区管理员, HA01提供者|  
 |hello_xin|TSS第三方社区管理员, HA02提供者|
 |hello__Yang|Yang第三方社区管理员, HA03提供者|

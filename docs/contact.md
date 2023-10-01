@@ -55,8 +55,8 @@ Bedrock版QQ交流群: 786406537
 在以上情况下，管理员应该以普通用户的身份要求其他管理员协助。*第三方社区中的游戏内容可能不受这些规则的限制*
 
 ###  特别感谢/Special Thanks To:
-![Paper](https://z3.ax1x.com/2021/08/27/hMKHN6.png)
-![MariaDB](https://z3.ax1x.com/2021/08/27/hMK7Ax.png)
-![Debian](https://z3.ax1x.com/2021/08/27/hMKL9O.png)
+![Paper](https://z3.ax1x.com/2021/08/27/hMKHN6.png)  
+![MariaDB](https://z3.ax1x.com/2021/08/27/hMK7Ax.png)  
+![Debian](https://z3.ax1x.com/2021/08/27/hMKL9O.png)  
 ![GitHub](https://z3.ax1x.com/2021/08/27/hMKb4K.png)  
 以及所有对本社区做出贡献的人/and everyone who contributes to this community  

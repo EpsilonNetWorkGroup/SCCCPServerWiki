@@ -24,6 +24,8 @@
 
 ## 事件
 ### 2023年(第四年)
+* [**YuanShen Event 09/28 --> 进行中**](Event/2023/YuanShen)
+* [**Mid-Autumn Event 09/29 --> 进行中**](Event/2023/Mid-Autumn)
 * [DragonBoat Event 2023/06/17 --> 2023/07/03](Event/2023/DragonBoat)
 * [RitualEnlightenment SP Event 2023/06/03 --> 2023/06/13](Event/RitualEnlightenment)
 * [Stardust Event 2023/06/03 --> 2023/06/13](Event/2023/Stardust)

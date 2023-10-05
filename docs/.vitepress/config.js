@@ -74,7 +74,7 @@ function sidebarmainc() {
         {
           text: '主社区',
           items: [
-            { text: '介绍', link: 'Mainc/' },
+            { text: '介绍', link: '/Mainc/' },
             {
                 text: '可用命令',
                 collapsible: true,

@@ -33,7 +33,28 @@ module.exports = {
             text: '在Github上编辑'
         },
         outlineTitle: '在本页',
-        lastUpdatedText: '最后更新时间'
+        lastUpdatedText: '最后更新时间',
+        search: {
+            provider: 'local',
+            options: {
+                detailedView: true,
+                translations: {
+                    button: {
+                        buttonText: '搜索文档'
+                    },
+                    modal: {
+                        displayDetails: '显示搜索结果详细',
+                        resetButtonTitle: '清除查询条件',
+                        noResultsText: '无法找到相关结果',
+                        footer: {
+                          selectText: '选择',
+                          navigateText: '切换',
+                          closeText: '关闭'
+                        }
+                    }
+                }
+            }
+        }
     }
 }
 

@@ -64,7 +64,7 @@ function navdir() {
             { text: '主目录', link: '/dirs' }
         ],},
         { items: [
-            { text: '主社区介绍', link: 'Mainc/' }
+            { text: '主社区Wiki', link: '/Mainc/' }
         ]}
     ]
 }

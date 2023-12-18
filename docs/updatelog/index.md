@@ -2,7 +2,7 @@
 
 ## 发行版本列表
 ### 2023年(第四年)
-* [**Beating Retreat(鸣金收兵)  06/03 --> Current(当前)**](BeatingRetreat/)
+* [Beating Retreat(鸣金收兵)  06/03 --> Current(当前)](BeatingRetreat/)
 * [Cloud Based(云端运算) 01/15 --> 06/03](CloudBased/)
 ::: details 2022年(第三年)内容
 * [Next Gen(下一世代) 08/01 --> 2023年](2022/NextGen/)
@@ -24,8 +24,8 @@
 
 ## 事件
 ### 2023年(第四年)
-* [**YuanShen Event 09/28 --> 进行中**](Event/2023/YuanShen)
-* [**Mid-Autumn Event 09/29 --> 进行中**](Event/2023/Mid-Autumn)
+* [YuanShen Event 2023/09/28 --> 2023/10/23](Event/2023/YuanShen)
+* [Mid-Autumn Event 2023/09/29 --> 2023/10/19](Event/2023/Mid-Autumn)
 * [DragonBoat Event 2023/06/17 --> 2023/07/03](Event/2023/DragonBoat)
 * [RitualEnlightenment SP Event 2023/06/03 --> 2023/06/13](Event/RitualEnlightenment)
 * [Stardust Event 2023/06/03 --> 2023/06/13](Event/2023/Stardust)

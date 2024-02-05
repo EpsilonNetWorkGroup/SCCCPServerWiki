@@ -13,7 +13,7 @@ Bedrock版QQ交流群: 786406537
 
 |第三方社区|详细信息|  
 |:--:|-------|  
-|bluestone*|拥有者为3nc4|  
+|DSS*|拥有者为Oshino_Shinobu__|  
 |TSS*|拥有者为hello_xin|  
 
 ## 高可用节点列表

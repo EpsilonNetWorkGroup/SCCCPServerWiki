@@ -27,6 +27,12 @@ const playlist = [
     file: '/bgm/Otherside.ogg',
     hide: false
   },
+  {
+    name: 'Labyrinthine',
+    author: 'Lena Raine',
+    file: '/bgm/Labyrinthine.ogg',
+    hide: false
+  }
 ]
 
 export default {

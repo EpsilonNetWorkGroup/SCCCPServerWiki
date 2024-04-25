@@ -1,10 +1,11 @@
 # 这里记录整个社区的更新记录
 
 ## 发行版本列表
-### 2023年(第四年)
-* [Freeze for All(万物冻结)  12/18 --> Current(当前)](FreezeforAll/)
-* [Beating Retreat(鸣金收兵)  06/03 --> 12/18](BeatingRetreat/)
-* [Cloud Based(云端运算) 01/15 --> 06/03](CloudBased/)
+::: details 2023年(第四年)内容
+* [Freeze for All(万物冻结)  12/18 --> 2024年](2023/FreezeforAll/)
+* [Beating Retreat(鸣金收兵)  06/03 --> 12/18](2023/BeatingRetreat/)
+* [Cloud Based(云端运算) 01/15 --> 06/03](2023/CloudBased/)
+:::
 ::: details 2022年(第三年)内容
 * [Next Gen(下一世代) 08/01 --> 2023年](2022/NextGen/)
 * [disappear(消声匿迹) 08/01 --> 10/22](2022/disappear/)

@@ -1,6 +1,9 @@
 # 这里记录整个社区的更新记录
 
 ## 发行版本列表
+## 2024年(第五年)内容
+* [**Zero Day(零日威胁) 04/26 --> 就是现在**](ZeroDay/)
+
 ::: details 2023年(第四年)内容
 * [Freeze for All(万物冻结)  12/18 --> 2024年](2023/FreezeforAll/)
 * [Beating Retreat(鸣金收兵)  06/03 --> 12/18](2023/BeatingRetreat/)

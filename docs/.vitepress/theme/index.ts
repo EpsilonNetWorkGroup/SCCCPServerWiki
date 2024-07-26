@@ -6,6 +6,11 @@ import 'vitepress-plugin-music/lib/css/index.css'
 
 const playlist = [
   {
+    name: 'Pokopoko',
+    author: '谷冈久美',
+    file: '/bgm/Pokopoko.ogg',
+  },
+  {
     name: 'Relic',
     author: 'Aaron Cherof',
     file: '/bgm/Relic.ogg',

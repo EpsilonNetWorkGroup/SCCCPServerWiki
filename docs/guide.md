@@ -5,7 +5,7 @@
 
 ::: warning 有关加入资格
 * 都必须使用自己的真实IP地址进入服务器  
-* 正版玩家: 直接进入游玩, 正版账号必须是您自己的合法账户, 不能使用默认皮肤(Steve/Alex)  
+* 正版玩家: 直接进入游玩, 正版账号必须是您自己的合法账户  
 * 盗版玩家: 请先进入我们的[QQ交流群](contact)申请白名单 (盗版玩家还将有连续游玩会话的限制)  
 :::  
 ## 2登录/选择社区
@@ -31,15 +31,7 @@
 ```
 /scccpcenter chatnon ->默认模式, 进入社区与聊天信息与QQ群聊互相同步, 接收其他玩家进入其他社区的信息  
 /scccpcenter chatoff ->安静模式, 进入社区与聊天信息互不同步, 不接收其他社区的信息, 并完全隔绝社区聊天系统  
-/scccpcenter chatall ->爆炸模式, 在默认模式基础上, 还接收其他社区的聊天  
-:::  
-### GPT聊天功能 (SCCCPCenter通用命令)
-命令: `/scccpcenter [gpt操作] <特定参数>`
-::: tip 示例
-```
-/scccpcenter gpt 你好, 你能为我做什么
-```
-输入/scccpcenter获取详细帮助, 此功能不受到群聊命令的tokens限制, 并且聊天保密  
+/scccpcenter chatall ->吵闹模式, 在默认模式基础上, 还接收其他社区的聊天  
 :::  
 ### 修改密码 (SCCCPCenter通用命令)
 命令: `/changepass <原密码> <新密码>` `/changepassword <原密码> <新密码>` 

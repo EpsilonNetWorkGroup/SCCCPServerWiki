@@ -82,7 +82,6 @@ function sidebarmainc() {
                 items: [
                     { text: 'Tpa(玩家间传送)', link: '/Mainc/command/tpa' },
                     { text: 'Tpoint(传送点功能)', link: '/Mainc/command/tpoint' },
-                    { text: 'df(难度调整功能)', link: '/Mainc/command/diffmod' },
                     { text: 'landclaim(私人领地标记)', link: '/Mainc/command/landclaim' },
                     { text: 'c(破坏/容器交互查询)', link: '/Mainc/command/coreprotect' },
                     { text: 'scccpext(扩展功能资源包)', link: '/Mainc/command/scccpext' },

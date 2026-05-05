@@ -6,25 +6,20 @@ Bedrock版QQ交流群: 786406537
 ```
 
 ## 社区列表
-|官方社区|详细信息|  
-|:--:|-------|  
-|主社区|此wiki主要介绍的服务器|  
-|阿比斯社区|OP生电服|  
+| 官方社区  | 详细信息          |  
+|:-----:|---------------|  
+|  主社区  | 此wiki主要介绍的服务器 |  
+| 阿比斯社区 | OP生电服         |  
 
-|第三方社区|详细信息|  
-|:--:|-------|  
-|TSS*|拥有者为hello__Yang|  
-|TSSM*|拥有者为hello__Yang|  
+| 第三方社区 | 详细信息 |  
+|:-----:|------|  
+
 
 ## 高可用节点列表
-|HA组|详细信息|地区|  
-|:--:|-----------|--------|  
-|01|官方提供, 仅IPv4接入|广东深圳|  
-|02|官方提供, 仅IPv4接入|四川成都/贵州黔东南苗族侗族自治州凯里|  
-|03|ench提供, IPv4/6 双栈接入|内蒙古呼和浩特|  
-|04|hello__Yang提供, 仅IPv4接入|湖南娄底|  
-|0A|官方提供, 仅IPv4接入, 无RefHA特性, 手动使用ha0a.playl.net连接|海外任播(40+地点及服务器)|  
-|S1|官方提供, 仅IPv4接入, 手动使用has1.playl.net连接|中国香港|  
+| HA组 | 详细信息                                          | 地区              |  
+|:---:|-----------------------------------------------|-----------------|
+| 0A  | 官方提供, 仅IPv4接入, 无RefHA特性, 手动使用ha0a.playl.net连接 | 海外任播(40+地点及服务器) |  
+| S2  | 官方提供, 仅IPv4接入                                 | 山东省枣庄市          |  
 
 ::: warning 无法连接?
 * 损坏的高可用节点将会在5-6分钟内完成SRV状态清理, 在此期间可以多刷新服务器列表几次即可正常连接  
@@ -39,11 +34,11 @@ Bedrock版QQ交流群: 786406537
 ## 现任工作人员
 * （是不是管理员）不应该有什么大不了的, 管理员只是将基于正常运作及安全考量的某些功能限制从他们身上解除。管理员没有任何高于其他用户的特权, 唯能实现社群讨论所得的共识。  
 
-|管理员|详细信息|  
-|:--:|-------|  
-|CamoDmi|系统管理员|  
-|ench|管理员|  
-|...|其他第三方社区管理员略|  
+|   管理员   | 详细信息        |  
+|:-------:|-------------|  
+| CamoDmi | 系统管理员       |  
+|  ench   | 管理员         |  
+|   ...   | 其他第三方社区管理员略 |  
 
 ### 工作人员避嫌
 在管理员拥有比其它用户多的管理权限的同时，管理员的行为也有以下限制，并受到所有社区成员的监督：  
@@ -55,8 +50,15 @@ Bedrock版QQ交流群: 786406537
 在以上情况下，管理员应该以普通用户的身份要求其他管理员协助。*第三方社区中的游戏内容可能不受这些规则的限制*
 
 ###  特别感谢/Special Thanks To:
-![Paper](https://z3.ax1x.com/2021/08/27/hMKHN6.png)  
-![MariaDB](https://z3.ax1x.com/2021/08/27/hMK7Ax.png)  
-![Debian](https://z3.ax1x.com/2021/08/27/hMKL9O.png)  
-![GitHub](https://z3.ax1x.com/2021/08/27/hMKb4K.png)  
+<div class="flex justify-center gap-1">
+
+![Paper](https://z3.ax1x.com/2021/08/27/hMKHN6.png)
+![PostgreSql](img/postgres.png)
+![Debian](https://z3.ax1x.com/2021/08/27/hMKL9O.png)
+![GitHub](https://z3.ax1x.com/2021/08/27/hMKb4K.png)
+![JetBrains](https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg)
+
+![CloudFlare](https://s21.ax1x.com/2024/07/13/pk456VU.webp)
+
+</div>
 以及所有对本社区做出贡献的人/and everyone who contributes to this community  

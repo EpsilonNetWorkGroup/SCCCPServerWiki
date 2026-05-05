@@ -53,7 +53,7 @@ Bedrock版QQ交流群: 786406537
 <div class="flex justify-center gap-1">
 
 ![Paper](https://z3.ax1x.com/2021/08/27/hMKHN6.png)
-![PostgreSql](img/postgres.png)
+![PostgreSql](public/img/postgres.png)
 ![Debian](https://z3.ax1x.com/2021/08/27/hMKL9O.png)
 ![GitHub](https://z3.ax1x.com/2021/08/27/hMKb4K.png)
 ![JetBrains](https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg)

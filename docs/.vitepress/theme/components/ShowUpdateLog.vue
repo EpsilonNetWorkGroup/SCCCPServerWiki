@@ -1,29 +1,23 @@
 <template>
     <h2>此版本的改动</h2>
     <ul>
-        <li v-for="(value, key) in updates">
-            <a :href="String(key)">{{ value }}</a>
+        <li v-for="i in matchedDataKeys">
+            <a :href="data[i].dateUrl">{{ dateUrlFormat(data[i].dateUrl) }} - {{ data[i].description }}</a>
         </li>
     </ul>
 </template>
 
-<!-- unused components -->
 <script lang="ts" setup>
 import { useRoute } from 'vitepress'
-// import { readdirSync } from 'fs'
+import { data } from "./updateLog.data";
 
-    let updates
-    initUpdates()
+const route = useRoute()
 
-    function initUpdates() {
-        const route = useRoute()
-        const Reversin = route.data.title
-        // const currentRoute = ref(route)
-        // const files = readdirSync('/docs/updatelog/'+Reversin)
+const matchedDataKeys = Object.keys(data).filter(k => k.startsWith(route.path)).sort((a, b) => a.localeCompare(b))
 
-        updates = {
-            '11-28': '11月28日 - 传送点,scccpsecurity, 新存储, wiki, 维护记录公开',
-            '12-4': '12月4日 - 更新scccpsys与scccpbot,Alpha测试服重置到最新存档'
-        }
-    }
+function dateUrlFormat(dateString: string) {
+  if (dateString[0].length >= 4)
+    dateString = dateString.replace("-", "年")
+  return `${dateString.replace("-", "月").split("-").join("日与")}日`
+}
 </script>

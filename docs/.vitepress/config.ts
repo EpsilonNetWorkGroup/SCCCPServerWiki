@@ -1,4 +1,6 @@
-module.exports = {
+import {defineConfig} from "vitepress";
+
+export default defineConfig({
     head: [
         ['link', { rel: 'icon', href: '/img/server-icon.png'}],
         ['script',{ src: '/js/banner.js' }],
@@ -47,16 +49,16 @@ module.exports = {
                         resetButtonTitle: '清除查询条件',
                         noResultsText: '无法找到相关结果',
                         footer: {
-                          selectText: '选择',
-                          navigateText: '切换',
-                          closeText: '关闭'
+                            selectText: '选择',
+                            navigateText: '切换',
+                            closeText: '关闭'
                         }
                     }
                 }
             }
         }
     }
-}
+})
 
 function navdir() {
     return [

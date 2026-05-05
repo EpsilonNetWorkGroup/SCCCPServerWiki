@@ -1,11 +1,12 @@
 # 这里记录整个社区的更新记录
 
 ## 发行版本列表
-## 2026年(第六年)内容
-* [**No Quieren(他们不想要) 08/09 --> 就是现在**](NoQuieren/)
+## 2026年(第七年)内容
+* [**No Quieren(他们不想要) 2025年 --> 就是现在**](NoQuieren/)
 
 ::: details 2025年(第六年)内容
-* [Zero Day(零日威胁) 04/26 --> 2025年](2024/ZeroDay/)
+* [No Quieren(他们不想要) 08/09 --> 2026年](NoQuieren/)
+* [Zero Day(零日威胁) 04/26 --> 08/09](2024/ZeroDay/)
 :::
 ::: details 2024年(第五年)内容
 * [Freeze for All(万物冻结)  12/18 --> 2024年](2023/FreezeforAll/)

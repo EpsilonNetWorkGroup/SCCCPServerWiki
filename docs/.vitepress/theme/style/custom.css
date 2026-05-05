@@ -1,0 +1,13 @@
+.flex p {
+    display: flex;
+}
+.justify-center p {
+    justify-content: center;
+}
+.gap-1 p {
+    gap: 1rem;
+}
+
+.max-w-15-rem {
+    max-width: 15rem;
+}

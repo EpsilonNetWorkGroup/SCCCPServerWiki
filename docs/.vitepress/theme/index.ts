@@ -1,10 +1,19 @@
-import Theme from 'vitepress/theme'
+import type { Theme } from 'vitepress'
+import DefaultTheme from 'vitepress/theme'
 import './style/var.css'
+import './style/custom.css'
 
 import vitepressMusic from 'vitepress-plugin-music'
 import 'vitepress-plugin-music/lib/css/index.css'
+import ShowUpdateLog from "./components/ShowUpdateLog.vue";
+import {SongInfo} from "vitepress-plugin-music/lib/type";
 
-const playlist = [
+const playlist: SongInfo[] = [
+  {
+    name: 'Tears',
+    author: 'Amos Roddy',
+    file: '/bgm/Tears.ogg',
+  },
   {
     name: 'Pokopoko',
     author: '谷冈久美',
@@ -41,8 +50,9 @@ const playlist = [
 ]
 
 export default {
-  ...Theme,
-  enhanceApp: (ctx) => {
+  ...DefaultTheme,
+  enhanceApp: ({ app }) => {
     vitepressMusic(playlist)
+    app.component('ShowUpdateLog', ShowUpdateLog)
   }
-}
+} satisfies Theme

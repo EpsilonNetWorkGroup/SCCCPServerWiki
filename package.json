@@ -6,8 +6,9 @@
   "description": "SCCCP Community Server Wiki",
   "repository": "https://github.com/EpsilonNetWorkGroup/SCCCPServerWiki.git",
   "license": "UNLICENSED",
+  "type": "module",
   "devDependencies": {
-    "vitepress": "1.1.3",
+    "vitepress": "^1.6.4",
     "vitepress-plugin-music": "^0.0.9"
   },
   "scripts": {
